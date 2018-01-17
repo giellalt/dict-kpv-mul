@@ -11,9 +11,6 @@
       </lg>
       <pos>CC-ADVERSATIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">and</t>
             <t pos="CC">but</t>
@@ -26,9 +23,6 @@
          </tg>
       </mg>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">а</t>
             <t pos="CC">но</t>
@@ -105,9 +99,6 @@
       </lg>
       <pos>CC-DISJUNCTIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <tCtn>
                <t pos="CC">or</t>
@@ -119,9 +110,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">или</t>
          </tg>
@@ -144,9 +132,6 @@
       </lg>
       <pos>CS-COMPARISON</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">будто, как будто</t>
          </tg>
@@ -176,9 +161,6 @@
       </lg>
       <pos>CC-ADDITIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">and</t>
          </tg>
@@ -187,9 +169,6 @@
          </tg>
       </mg>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">да</t>
             <t pos="CC">и</t>
@@ -221,9 +200,6 @@
       </lg>
       <pos>CC-ADVERSATIVE</pos>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">да</t>
             <t pos="CC">но</t>
@@ -254,9 +230,6 @@
       </lg>
       <pos>CS-CAUSE</pos>
       <mg No="3">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">потому что</t>
          </tg>
@@ -273,9 +246,6 @@
          </xg>
       </mg>
       <mg No="5">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">так как</t>
          </tg>
@@ -294,9 +264,6 @@
       </lg>
       <pos>CC-CORRELATIVE</pos>
       <mg No="4">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">и</t>
          </tg>
@@ -318,9 +285,6 @@
          </xg>
       </mg>
       <mg No="6">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">хотя</t>
          </tg>
@@ -338,9 +302,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>and then</t>
          </tg>
@@ -349,9 +310,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">да и</t>
          </tg>
@@ -382,9 +340,6 @@
       </lg>
       <pos>CC-ADVERSATIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CS">in turn</t>
          </tg>
@@ -393,9 +348,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">же</t>
          </tg>
@@ -413,9 +365,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">but</t>
          </tg>
@@ -424,9 +373,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg>
             <t/>
          </tg>
@@ -441,9 +387,6 @@
       </lg>
       <pos>CC-ADVERSATIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">зато</t>
          </tg>
@@ -462,9 +405,6 @@
       </lg>
       <pos>CC-ADDITIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">also</t>
             <t pos="CC">and</t>
@@ -475,9 +415,6 @@
          </tg>
       </mg>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">и</t>
          </tg>
@@ -516,9 +453,6 @@
       </lg>
       <pos>CC-ADVERSATIVE</pos>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">но</t>
          </tg>
@@ -572,9 +506,6 @@
       </lg>
       <pos>CS-CONCESSIVE</pos>
       <mg No="4">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">хотя и</t>
          </tg>
@@ -599,9 +530,6 @@
          </stg>
       </lg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">когда</t>
          </tg>
@@ -616,9 +544,6 @@
       </lg>
       <pos>CS-CORRELATIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">чем</t>
          </tg>
@@ -641,9 +566,6 @@
       </lg>
       <pos>CS</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CS">if</t>
             <t pos="CS">although</t>
@@ -655,9 +577,6 @@
          </tg>
       </mg>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <tCtn>
                <t pos="CS">если</t>
@@ -755,9 +674,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">or</t>
          </tg>
@@ -766,9 +682,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">хоть</t>
          </tg>
@@ -877,9 +790,6 @@
       </lg>
       <pos>CC</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">or</t>
          </tg>
@@ -898,9 +808,6 @@
       </lg>
       <pos>CC-DISJUNCTIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">nor</t>
          </tg>
@@ -950,9 +857,6 @@
       </lg>
       <pos>CS-CAUSE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">потому что, так как</t>
          </tg>
@@ -975,9 +879,6 @@
       </lg>
       <pos>CS</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CS">in order to</t>
          </tg>
@@ -986,9 +887,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">чтобы, чтоб</t>
          </tg>
@@ -1047,9 +945,6 @@
          </xg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t/>
          </tg>
@@ -1075,9 +970,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg>
             <t/>
          </tg>
@@ -1113,9 +1005,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CS">that</t>
          </tg>
@@ -1124,9 +1013,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">что</t>
          </tg>
@@ -1162,9 +1048,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">затем, что</t>
          </tg>
@@ -1185,9 +1068,6 @@
       </lg>
       <pos>CS</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">как только, лишь только</t>
          </tg>
@@ -1226,9 +1106,6 @@
       </lg>
       <pos>CC-CORRELATIVE</pos>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">не то..., не то</t>
          </tg>
@@ -1257,9 +1134,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1273,9 +1147,6 @@
          </xg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">вместо того, чтобы ...</t>
          </tg>
@@ -1301,9 +1172,6 @@
       </lg>
       <pos>CC</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">nor</t>
          </tg>
@@ -1312,9 +1180,6 @@
          </tg>
       </mg>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">ни... ни...</t>
          </tg>
@@ -1345,9 +1210,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">без... и...</t>
          </tg>
@@ -1375,9 +1237,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">не то... не то...</t>
          </tg>
@@ -1439,9 +1298,6 @@
       </lg>
       <pos>CC-ADVERSATIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">but (inspite of that)</t>
          </tg>
@@ -1450,9 +1306,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">но, а</t>
          </tg>
@@ -1474,9 +1327,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">but also</t>
          </tg>
@@ -1485,9 +1335,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg>
             <t/>
          </tg>
@@ -1501,9 +1348,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">якобы</t>
          </tg>
@@ -1554,9 +1398,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CS">therefore</t>
          </tg>
@@ -1573,9 +1414,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CS">therefore</t>
             <t pos="CS">hence</t>
@@ -1594,9 +1432,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg>
             <t/>
          </tg>
@@ -1610,9 +1445,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg>
             <t/>
          </tg>
@@ -1626,9 +1458,6 @@
          </stg>
       </lg>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">потому, оттого</t>
          </tg>
@@ -1638,9 +1467,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">затем</t>
          </tg>
@@ -1658,9 +1484,6 @@
          </stg>
       </lg>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">тем</t>
          </tg>
@@ -1670,9 +1493,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">столько</t>
          </tg>
@@ -1691,9 +1511,6 @@
       </lg>
       <pos>CS-CORRELATIVE-MAIN</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">тогда</t>
          </tg>
@@ -1711,9 +1528,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CC">да и</t>
          </tg>
@@ -1731,9 +1545,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CS">thus</t>
             <t pos="CS">for this reason</t>
@@ -1745,9 +1556,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg>
             <t/>
          </tg>
@@ -1792,9 +1600,6 @@
       </lg>
       <pos>CC-ADVERSATIVE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">только</t>
          </tg>
@@ -1820,9 +1625,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CS">hence</t>
          </tg>
@@ -1831,9 +1633,6 @@
          </tg>
       </mg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg>
             <t/>
          </tg>
@@ -1847,9 +1646,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -1858,9 +1654,6 @@
          </tg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">то</t>
          </tg>
@@ -1882,9 +1675,6 @@
          </stg>
       </lg>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t pos="CS">что, якобы</t>
          </tg>

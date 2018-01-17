@@ -11,9 +11,6 @@
       </lg>
       <pos>Essent</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>сильное желание <gov>что-л.</gov> сделать; <i>с инфин.</i> влечёт, тянет, очень хочется</t>
          </tg>
@@ -36,9 +33,6 @@
       </lg>
       <pos>PHRASE_A</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <tCtn>
                <t>крепкий, здоровый (</t>
@@ -56,9 +50,6 @@
       </lg>
       <pos>PHRASE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>а) крепкий, здоровый; б) лёгкий, быстрый на ногах</t>
          </tg>
@@ -73,9 +64,6 @@
       </lg>
       <pos>PHEASE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>тишь да гладь</t>
          </tg>
@@ -94,9 +82,6 @@
       </lg>
       <pos>PHRASE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>слухи, сплетни</t>
          </tg>
@@ -119,9 +104,6 @@
       </lg>
       <pos>PHRASE_V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>упасть, кувыркнуться</t>
          </tg>
@@ -140,9 +122,6 @@
       </lg>
       <pos>descr</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t/>
          </tg>
@@ -174,9 +153,6 @@
       </lg>
       <pos>PHRASE_N</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>спаренные лодки</t>
          </tg>
@@ -195,9 +171,6 @@
       </lg>
       <pos/>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>полно; хватит, довольно, достаточно</t>
          </tg>
@@ -226,9 +199,6 @@
          </m>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>обилие; довольно много; немало</t>
          </tg>
@@ -288,9 +258,6 @@
       </lg>
       <pos>Quant</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>довольно много; многовато, немало</t>
          </tg>
@@ -311,9 +278,6 @@
       <i>сравнит. ст. от</i>
       <kv>уна</kv>
       <mg No="1">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>больше; побольше; большинство</t>
          </tg>
@@ -323,9 +287,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>чаще, в большинстве случаев</t>
          </tg>
@@ -335,9 +296,6 @@
          </xg>
       </mg>
       <mg No="3">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>преимущественно</t>
          </tg>
@@ -356,9 +314,6 @@
       </lg>
       <pos>Quant</pos>
       <mg No="1">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>вволю; вдоволь</t>
          </tg>
@@ -376,9 +331,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>в достатке</t>
          </tg>
@@ -397,9 +349,6 @@
       </lg>
       <pos>PHRASE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>а) <com>в роли сказ.</com> ни звука, никакого признака; б) совершенно холодный (<i>о печке, бане и т.
             п.)</i></t>
@@ -423,9 +372,6 @@
       </lg>
       <pos>PHRASE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>вихрь; столб снега, пыли</t>
          </tg>
@@ -444,9 +390,6 @@
       </lg>
       <pos>PHRASE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>здравствуйте, привет!</t>
          </tg>
@@ -461,9 +404,6 @@
       </lg>
       <pos/>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>скользить; скатиться</t>
          </tg>
@@ -478,9 +418,6 @@
       </lg>
       <pos>descr</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t/>
          </tg>
@@ -495,9 +432,6 @@
       </lg>
       <pos>PHRASE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <tCtn>
                <t>чересчур большой; свободный, просторный</t>
@@ -549,9 +483,6 @@
       </lg>
       <pos>PHRASE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <tCtn>
                <t>с суживающимися краями</t>
@@ -569,9 +500,6 @@
       </lg>
       <pos>PHRASE</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>тишина, тишь; безмолвие QXQX тихо, бесшумно, беззвучно</t>
          </tg>
@@ -653,9 +581,6 @@
       </lg>
       <pos>Quant</pos>
       <mg No="1">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>мало, немного</t>
          </tg>
@@ -743,9 +668,6 @@
          </xg>
       </mg>
       <mg No="3">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>едва; чуть</t>
          </tg>
@@ -798,9 +720,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>меньшинство</t>
          </tg>
@@ -819,9 +738,6 @@
       </lg>
       <pos>Quant</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>маловато, немножко</t>
          </tg>
@@ -840,9 +756,6 @@
       </lg>
       <pos>pcle</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>(1-е л.),</t>
          </tg>
@@ -912,9 +825,6 @@
       </lg>
       <pos/>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>заговенье, последний день мясоеда</t>
          </tg>
@@ -929,9 +839,6 @@
       </lg>
       <pos>State</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>довольно стыдно, совестно</t>
          </tg>
@@ -946,9 +853,6 @@
       </lg>
       <pos>FORMULAIC</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>здравствуй</t>
          </tg>
@@ -985,9 +889,6 @@
       </lg>
       <pos>NUM-CARD</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>раз; (за) один раз</t>
          </tg>

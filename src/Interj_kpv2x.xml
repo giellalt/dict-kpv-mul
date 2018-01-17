@@ -1,9 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
-   xml:lang="kpv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+  <e order="2">
+    <lg>
+      <l>тіджык</l>
+
+      <stg>
+        <st Contlex="INTERJ_">тіджык</st>
+      </stg>
+    </lg>
+    <mg>
+      <m>
+        <head>
+          <att att="joc"/>
+        </head>
+      </m>
+
+      <tg xml:lang="rus">
+        <t pos="Interj">нажимай! давай!</t>
+      </tg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l>чӧрту</l>
+
+      <stg>
+        <st Contlex="INTERJ_">чӧрту</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="rus">
+        <t pos="Interj">к чертям; к чёрту</t>
+      </tg>
+
+      <xg>
+        <x>чӧрту потшӧс сайысь</x>
+
+        <xt xml:lang="rus">неизвестно откуда</xt>
+      </xg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l>шыть</l>
+
+      <stg>
+        <st Contlex="INTERJ_">шыть</st>
+      </stg>
+    </lg>
+    <mg>
+      <m>
+        <head/>
+
+        <semRel No="1" lemmaID="шӧть" semRelType="see"/>
+      </m>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">лунысь лунӧ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">лунысь лунӧ</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">пемыдысь пемыдӧ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пемыдысь пемыдӧ</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">from dawn till dusk</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+  </e>
   <e order="2">
     <lg>
       <l pos="Interj">а</l>
@@ -38,7 +132,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">адӧй</l>
@@ -67,7 +160,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ак</l>
@@ -120,7 +212,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ало</l>
@@ -150,7 +241,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">аляддза</l>
@@ -163,16 +253,15 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">аминь</l>
@@ -199,7 +288,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">аминь</l>
@@ -229,7 +317,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">аминь-аминь</l>
@@ -250,7 +337,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">аминьӧй</l>
@@ -267,7 +353,6 @@
       </m>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">аттьӧ</l>
@@ -289,7 +374,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">аттьӧ</l>
@@ -322,7 +406,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">аттӧ</l>
@@ -369,7 +452,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">бай-бай</l>
@@ -390,7 +472,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">баль-баль</l>
@@ -407,47 +488,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">бласлӧ Кристос</l>
-
-      <stg>
-        <st Contlex="INTERJ_">бласлӧ Кристос</st>
-      </stg>
-    </lg>
-
-    <pos>ADV-PARENTHETIC</pos>
-
-    <mg>
-      <m>
-        <head>
-          <re>(в роли вводн. сл.)</re>
-
-          <range rangeTemp="obsolete"/>
-        </head>
-      </m>
-
-      <tg xml:lang="rus">
-        <tCtn>
-          <t pos="Interj">с богом</t>
-
-          <re>пожелание успеха, удачи при каком-л. деле</re>
-        </tCtn>
-      </tg>
-
-      <xg>
-        <x>петӧ, бласлӧ кристос , котралыштӧй</x>
-
-        <xt xml:lang="rus">идите, с богом, побегайте</xt>
-      </xg>
-    </mg>
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">бов</l>
@@ -460,47 +504,15 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">бри да бра</l>
-
-      <stg>
-        <st Contlex="INTERJ_">бри да бра</st>
-      </stg>
-    </lg>
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">бри да бра</l>
-
-      <stg>
-        <st Contlex="INTERJ_">бри да бра</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="rus">
-        <t pos="Interj">бодро</t>
-      </tg>
-
-      <tg xml:lang="rus">
-        <t pos="Interj">как ни в чём не бывало</t>
-      </tg>
-    </mg>
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">брун</l>
@@ -519,12 +531,11 @@
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">брут</l>
@@ -552,7 +563,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">брысь</l>
@@ -581,7 +591,7 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <xg>
@@ -591,127 +601,6 @@
       </xg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">бур асыв</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">бур асыв</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">good morning</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">hyvää huomenta</t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">бур вой</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">бур вой</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">good night</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <tCtn>
-          <t pos="Interj">hyvää yötä</t>
-
-          <re>nukkumaan mentäessä</re>
-        </tCtn>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">бур вылӧ</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">бур вылӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">your welcome</t>
-
-        <t pos="Interj">don't mention it</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">ole hyvä</t>
-
-        <t pos="Interj">olkaa hyvä</t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">бур лун</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">бур лун</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">good afternoon</t>
-
-        <t pos="Interj">good morning</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">hyvää päivää</t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">бур рыт</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">бур рыт</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">good evening</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">hyvää iltaa</t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">вай</l>
@@ -753,7 +642,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">вайлы</l>
@@ -779,7 +667,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">вала-вала</l>
@@ -796,123 +683,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">видза колян</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">видза колян</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">see you later</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">näkemiin</t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">видза колянныд</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">видза колянныд</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">see you later</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">näkemiin</t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">видза олан</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">видза олан</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">hello</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">hyvää päivää</t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">видза оланныд</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">видза оланныд</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">hello</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">hyvää päivää</t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">вот и бур</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">вот и бур</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">that's great</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">mainiota</t>
-
-        <t pos="Interj">ihanaa</t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">гашкӧ</l>
@@ -936,7 +710,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">господи</l>
@@ -959,7 +732,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">дзен</l>
@@ -981,7 +753,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">діль</l>
@@ -1008,7 +779,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ей</l>
@@ -1021,28 +791,10 @@
         <defNative/>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">ей богу</l>
-
-      <stg>
-        <st Contlex="INTERJ_">ей богу</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="rus">
-        <t pos="Interj">ей богу</t>
-      </tg>
-    </mg>
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">екуня-ваня</l>
@@ -1069,7 +821,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">жаль</l>
@@ -1095,7 +846,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">жальӧ</l>
@@ -1121,7 +871,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">зы-зы</l>
@@ -1144,7 +893,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ик</l>
@@ -1165,7 +913,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">икӧтапызь</l>
@@ -1182,7 +929,6 @@
       </m>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">кас</l>
@@ -1199,7 +945,7 @@
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
@@ -1211,11 +957,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">кись</l>
@@ -1236,29 +981,6 @@
       </tg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">код тӧдас</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">код тӧдас</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">who knows</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">kenties</t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">конь-конь</l>
@@ -1275,11 +997,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">кот</l>
@@ -1302,7 +1023,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">куа</l>
@@ -1323,7 +1043,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">кува</l>
@@ -1340,7 +1059,6 @@
       </m>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">куть-куть</l>
@@ -1357,33 +1075,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">кыв ни джын</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">кыв ни джын</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">not a word</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">ei sanaakaan</t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">кыс-кыс</l>
@@ -1400,7 +1095,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">кысь</l>
@@ -1417,7 +1111,6 @@
       </m>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">кӧчамач</l>
@@ -1441,7 +1134,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ладнӧ</l>
@@ -1465,28 +1157,6 @@
     </mg>
 
   </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">лунысь лунӧ</l>
-
-      <stg>
-        <st Contlex="ADV-TEMP_">лунысь лунӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj"></t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">мамӧ</l>
@@ -1506,7 +1176,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">мача</l>
@@ -1527,7 +1196,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">медъя</l>
@@ -1557,51 +1225,6 @@
       </xg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">морыс мед нуас</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">морыс мед нуас</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj"></t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">морыс тӧдӧ</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">морыс тӧдӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj"></t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">небось</l>
@@ -1637,7 +1260,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">но</l>
@@ -1676,7 +1298,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ноко</l>
@@ -1729,7 +1350,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">нолтӧ</l>
@@ -1746,11 +1366,11 @@
       </m>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
@@ -1772,7 +1392,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">нолтӧсь</l>
@@ -1789,7 +1408,7 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <xg>
@@ -1799,7 +1418,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">нолы</l>
@@ -1816,7 +1434,6 @@
       </m>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">нолӧ</l>
@@ -1829,16 +1446,15 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">нолӧ</l>
@@ -1865,7 +1481,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">нолӧй</l>
@@ -1882,29 +1497,6 @@
       </m>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">ном мында</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">ном мында</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">a whole lot</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">нылӧ</l>
@@ -1934,29 +1526,6 @@
       </xg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">нырсер мунӧма</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">нырсер мунӧма</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj"></t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">нюж</l>
@@ -1977,7 +1546,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">о</l>
@@ -2040,7 +1608,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ой</l>
@@ -2093,7 +1660,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ой-ёй</l>
@@ -2122,7 +1688,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ойя</l>
@@ -2173,7 +1738,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ок</l>
@@ -2244,7 +1808,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">окма</l>
@@ -2271,7 +1834,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">олас</l>
@@ -2298,29 +1860,6 @@
       </xg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">онь ни бус</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">онь ни бус</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj"></t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">пару</l>
@@ -2333,16 +1872,15 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">пасибӧ</l>
@@ -2359,37 +1897,15 @@
       </m>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
-  <e>
-    <lg>
-      <l pos="Adv">пемыдысь пемыдӧ</l>
-
-      <stg>
-        <st Contlex="ADV-TEMP_">пемыдысь пемыдӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">from dawn till dusk</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">пиӧ</l>
@@ -2433,7 +1949,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">прутьӧ-прутьӧ</l>
@@ -2450,7 +1965,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">пӧжалуйста</l>
@@ -2482,7 +1996,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">руті-роті</l>
@@ -2501,7 +2014,6 @@
       </m>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">сильӧ</l>
@@ -2524,7 +2036,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">слабог</l>
@@ -2537,11 +2048,11 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
@@ -2568,7 +2079,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">слабог</l>
@@ -2578,7 +2088,6 @@
       </stg>
     </lg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">смотри</l>
@@ -2611,7 +2120,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">сьта</l>
@@ -2624,11 +2132,11 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
@@ -2640,7 +2148,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">сьта</l>
@@ -2650,7 +2157,6 @@
       </stg>
     </lg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">сьтпро</l>
@@ -2663,11 +2169,11 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
@@ -2679,7 +2185,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">сьтпро</l>
@@ -2689,71 +2194,6 @@
       </stg>
     </lg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">сё ей богу</l>
-
-      <stg>
-        <st Contlex="INTERJ_">сё ей богу</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="rus">
-        <t pos="Interj">ей богу</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">сё мокасьтӧ</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">сё мокасьтӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj"></t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">сідз водзӧ</l>
-
-      <stg>
-        <st Contlex="INTERJ_">сідз водзӧ</st>
-      </stg>
-    </lg>
-
-    <pos>ADV</pos>
-
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">et cetra</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">ja niin edelleen</t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">тай</l>
@@ -2781,7 +2221,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">торк</l>
@@ -2804,7 +2243,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">тпру</l>
@@ -2817,11 +2255,11 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
@@ -2855,7 +2293,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">тпруть</l>
@@ -2872,11 +2309,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">тпрутьӧ</l>
@@ -2893,11 +2329,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">трпуть</l>
@@ -2910,16 +2345,15 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">тшаква</l>
@@ -2945,29 +2379,6 @@
     </mg>
 
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">тшыг нисьӧ пӧт</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">тшыг нисьӧ пӧт</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">(neither hungry nor full) half-starved</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">(ei nälässä eikä kylläinen) puoliksi nälissään</t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">тьпу</l>
@@ -2996,7 +2407,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">тьӧтӧ</l>
@@ -3020,7 +2430,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">тэт-тэт</l>
@@ -3037,76 +2446,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
-  <e order="2">
-    <lg>
-      <l>тіджык</l>
-
-      <stg>
-        <st Contlex="INTERJ_">тіджык</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <att att="joc"/>
-        </head>
-      </m>
-
-      <tg xml:lang="rus">
-        <t pos="Interj">нажимай! давай!</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">тӧлк ни слӧй</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">тӧлк ни слӧй</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj"></t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e order="2">
-    <lg>
-      <l pos="Interj">тӧлӧ</l>
-
-      <stg>
-        <st Contlex="INTERJ_">тӧлӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj"></t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">тӧлӧ</l>
@@ -3123,33 +2466,31 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
+  <e order="2">
     <lg>
-      <l pos="Interj">ув ни парч</l>
+      <l pos="Interj">тӧлӧ</l>
 
       <stg>
-        <st Contlex="INTERJ-FORMULAIC_">ув ни парч</st>
+        <st Contlex="INTERJ_">тӧлӧ</st>
       </stg>
     </lg>
     <mg>
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">уп</l>
@@ -3172,7 +2513,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ура</l>
@@ -3195,7 +2535,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">чадӧ</l>
@@ -3221,7 +2560,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">чиб-чиб</l>
@@ -3238,11 +2576,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">чивк</l>
@@ -3268,7 +2605,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">чип-чип</l>
@@ -3285,7 +2621,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">чолӧм</l>
@@ -3313,7 +2648,6 @@
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">чур</l>
@@ -3336,7 +2670,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">чӧв</l>
@@ -3363,30 +2696,6 @@
       </xg>
     </mg>
   </e>
-
-  <e order="2">
-    <lg>
-      <l>чӧрту</l>
-
-      <stg>
-        <st Contlex="INTERJ_">чӧрту</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="rus">
-        <t pos="Interj">к чертям; к чёрту</t>
-      </tg>
-
-      <xg>
-        <x>чӧрту потшӧс сайысь</x>
-
-        <xt xml:lang="rus">неизвестно откуда</xt>
-      </xg>
-    </mg>
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ша</l>
@@ -3423,7 +2732,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">швач</l>
@@ -3476,54 +2784,6 @@
       </xg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">шыдтӧ азялӧм бӧрын казялін</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">шыдтӧ азялӧм бӧрын казялін</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head>
-          <argg>
-            <arg>
-              <typical>SAYING</typical>
-            </arg>
-          </argg>
-        </head>
-      </m>
-
-      <tg xml:lang="eng">
-        <t pos="Interj"></t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj"></t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e order="2">
-    <lg>
-      <l>шыть</l>
-
-      <stg>
-        <st Contlex="INTERJ_">шыть</st>
-      </stg>
-    </lg>
-    <mg>
-      <m>
-        <head/>
-
-        <semRel No="1" lemmaID="шӧть" semRelType="see"/>
-      </m>
-    </mg>
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">шӧть</l>
@@ -3536,11 +2796,11 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
@@ -3552,33 +2812,10 @@
       </m>
 
       <tg xml:lang="rus">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">ыджыд аттьӧ</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">ыджыд аттьӧ</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">thank you very much!</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">suurkiitos!</t>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ык</l>
@@ -3601,7 +2838,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ырс</l>
@@ -3665,7 +2901,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">э</l>
@@ -3704,7 +2939,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">эй</l>
@@ -3733,7 +2967,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">эк</l>
@@ -3762,7 +2995,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">экма</l>
@@ -3793,7 +3025,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">элой</l>
@@ -3806,94 +3037,15 @@
         <defNative/>
 
       <tg xml:lang="eng">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">эм нисьӧ абу</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">эм нисьӧ абу</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">very little</t>
-
-        <t pos="Interj">almost nothing</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">erittäin vähän</t>
-
-        <t pos="Interj">häviävän vähän</t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">эн дивит</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">эн дивит</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <t pos="Interj">excuse me (lit. don't judge)</t>
-      </tg>
-
-      <tg xml:lang="fin">
-        <t pos="Interj">anna anteeksi (kirj. älä tuomitse)</t>
-      </tg>
-    </mg>
-
-  </e>
-
-  <e exclude="fst" order="2">
-    <lg>
-      <l pos="Interj">энӧ дивитӧй</l>
-
-      <stg>
-        <st Contlex="INTERJ-FORMULAIC_">энӧ дивитӧй</st>
-      </stg>
-    </lg>
-    <mg>
-        <defNative/>
-
-      <tg xml:lang="eng">
-        <tCtn>
-          <t pos="Interj">exuse me</t>
-
-          <re>lit. don't judge</re>
-        </tCtn>
-      </tg>
-
-      <tg xml:lang="fin">
-        <tCtn>
-          <t pos="Interj">antakaa anteeksi</t>
-
-          <re>kirj. älkää tuomitko</re>
-        </tCtn>
-      </tg>
-    </mg>
-
-  </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">эстшӧм</l>
@@ -3934,7 +3086,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ӧ</l>
@@ -3955,7 +3106,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ӧввӧ</l>
@@ -3988,7 +3138,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ӧввӧ</l>
@@ -4017,7 +3166,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ӧдерень</l>
@@ -4038,7 +3186,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ӧдлы</l>
@@ -4055,7 +3202,6 @@
       </m>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ӧдтӧ</l>
@@ -4106,7 +3252,6 @@
       </xg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ӧмӧй</l>
@@ -4139,12 +3284,11 @@
       </tg>
 
       <tg xml:lang="fin">
-        <t pos="Interj"></t>
+        <t pos="Interj"/>
       </tg>
     </mg>
 
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ӧсьт</l>
@@ -4161,7 +3305,6 @@
       </tg>
     </mg>
   </e>
-
   <e order="2">
     <lg>
       <l pos="Interj">ӧть-ӧть</l>
@@ -4181,5 +3324,703 @@
         <t pos="Interj">возглас, которым погоняют лошадей</t>
       </tg>
     </mg>
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">бласлӧ Кристос</l>
+
+      <stg>
+        <st Contlex="INTERJ_">бласлӧ Кристос</st>
+      </stg>
+    </lg>
+
+    <pos>ADV-PARENTHETIC</pos>
+
+    <mg>
+      <m>
+        <head>
+          <re>(в роли вводн. сл.)</re>
+
+          <range rangeTemp="obsolete"/>
+        </head>
+      </m>
+
+      <tg xml:lang="rus">
+        <tCtn>
+          <t pos="Interj">с богом</t>
+
+          <re>пожелание успеха, удачи при каком-л. деле</re>
+        </tCtn>
+      </tg>
+
+      <xg>
+        <x>петӧ, бласлӧ кристос , котралыштӧй</x>
+
+        <xt xml:lang="rus">идите, с богом, побегайте</xt>
+      </xg>
+    </mg>
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">бри да бра</l>
+
+      <stg>
+        <st Contlex="INTERJ_">бри да бра</st>
+      </stg>
+    </lg>
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">бри да бра</l>
+
+      <stg>
+        <st Contlex="INTERJ_">бри да бра</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="rus">
+        <t pos="Interj">бодро</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Interj">как ни в чём не бывало</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">бур асыв</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">бур асыв</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">good morning</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">hyvää huomenta</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">бур вой</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">бур вой</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">good night</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <tCtn>
+          <t pos="Interj">hyvää yötä</t>
+
+          <re>nukkumaan mentäessä</re>
+        </tCtn>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">бур вылӧ</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">бур вылӧ</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">your welcome</t>
+
+        <t pos="Interj">don't mention it</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">ole hyvä</t>
+
+        <t pos="Interj">olkaa hyvä</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">бур лун</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">бур лун</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">good afternoon</t>
+
+        <t pos="Interj">good morning</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">hyvää päivää</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">бур рыт</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">бур рыт</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">good evening</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">hyvää iltaa</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">видза колян</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">видза колян</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">see you later</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">näkemiin</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">видза колянныд</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">видза колянныд</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">see you later</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">näkemiin</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">видза олан</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">видза олан</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">hello</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">hyvää päivää</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">видза оланныд</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">видза оланныд</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">hello</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">hyvää päivää</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">вот и бур</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">вот и бур</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">that's great</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">mainiota</t>
+
+        <t pos="Interj">ihanaa</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">ей богу</l>
+
+      <stg>
+        <st Contlex="INTERJ_">ей богу</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="rus">
+        <t pos="Interj">ей богу</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">код тӧдас</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">код тӧдас</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">who knows</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">kenties</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">кыв ни джын</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">кыв ни джын</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">not a word</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">ei sanaakaan</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">морыс мед нуас</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">морыс мед нуас</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">морыс тӧдӧ</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">морыс тӧдӧ</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">ном мында</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">ном мында</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">a whole lot</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">нырсер мунӧма</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">нырсер мунӧма</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">онь ни бус</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">онь ни бус</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">сё ей богу</l>
+
+      <stg>
+        <st Contlex="INTERJ_">сё ей богу</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="rus">
+        <t pos="Interj">ей богу</t>
+      </tg>
+    </mg>
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">сё мокасьтӧ</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">сё мокасьтӧ</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">сідз водзӧ</l>
+
+      <stg>
+        <st Contlex="INTERJ_">сідз водзӧ</st>
+      </stg>
+    </lg>
+
+    <pos>ADV</pos>
+
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">et cetra</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">ja niin edelleen</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">тшыг нисьӧ пӧт</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">тшыг нисьӧ пӧт</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">(neither hungry nor full) half-starved</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">(ei nälässä eikä kylläinen) puoliksi nälissään</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">тӧлк ни слӧй</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">тӧлк ни слӧй</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">ув ни парч</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">ув ни парч</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">шыдтӧ азялӧм бӧрын казялін</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">шыдтӧ азялӧм бӧрын казялін</st>
+      </stg>
+    </lg>
+    <mg>
+      <m>
+        <head>
+          <argg>
+            <arg>
+              <typical>SAYING</typical>
+            </arg>
+          </argg>
+        </head>
+      </m>
+
+      <tg xml:lang="eng">
+        <t pos="Interj"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj"/>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">ыджыд аттьӧ</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">ыджыд аттьӧ</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">thank you very much!</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">suurkiitos!</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">эм нисьӧ абу</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">эм нисьӧ абу</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">very little</t>
+
+        <t pos="Interj">almost nothing</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">erittäin vähän</t>
+
+        <t pos="Interj">häviävän vähän</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">эн дивит</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">эн дивит</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Interj">excuse me (lit. don't judge)</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Interj">anna anteeksi (kirj. älä tuomitse)</t>
+      </tg>
+    </mg>
+
+  </e>
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Interj">энӧ дивитӧй</l>
+
+      <stg>
+        <st Contlex="INTERJ-FORMULAIC_">энӧ дивитӧй</st>
+      </stg>
+    </lg>
+    <mg>
+        <defNative/>
+
+      <tg xml:lang="eng">
+        <tCtn>
+          <t pos="Interj">exuse me</t>
+
+          <re>lit. don't judge</re>
+        </tCtn>
+      </tg>
+
+      <tg xml:lang="fin">
+        <tCtn>
+          <t pos="Interj">antakaa anteeksi</t>
+
+          <re>kirj. älkää tuomitko</re>
+        </tCtn>
+      </tg>
+    </mg>
+
   </e>
 </r>

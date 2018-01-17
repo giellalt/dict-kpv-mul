@@ -1,66 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="kpv"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <e exclude="fst" order="2">
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv">
+  <e>
       <lg>
-         <l pos="Pcle">-кӧ</l>
+         <l pos="ADV">гизь</l>
          <stg>
-            <st Contlex="PCLE_">-кӧ</st>
-         </stg>
-      </lg>
-      <mg relId="0">
-         <m>
-            <head>
-               <re>при числ.</re>
-            </head>
-         </m>
-         <tg xml:lang="rus">
-            <t pos="Pcle">во-</t>
-         </tg>
-         <xg>
-            <x>ӧти-кӧ</x>
-            <xt xml:lang="fin">ensiksikin</xt>
-            <xt>ensinnäkin</xt>
-            <xt xml:lang="rus">во-первых</xt>
-         </xg>
-         <xg>
-            <x>мӧд-кӧ</x>
-            <xt xml:lang="fin">toiseksi</xt>
-            <xt xml:lang="rus">во-вторых</xt>
-         </xg>
-      </mg>
-   </e>
-   <e exclude="fst" order="2">
-      <lg>
-         <l pos="Pcle">-ӧ</l>
-         <stg>
-            <st Contlex="PCLE-QST_">-ӧ</st>
+            <st Contlex="ADV_">гизь</st>
          </stg>
       </lg>
       <mg>
          <defNative/>
-         <tg xml:lang="rus">
-            <t pos="Q_PCLE">ли</t>
+         <tg xml:lang="eng">
+            <t pos="Pcle">next to each other</t>
+            <t pos="Pcle">side by side</t>
          </tg>
-         <xg>
-            <x>эм-ӧ?</x>
-            <xt xml:lang="fin">onko?</xt>
-            <xt xml:lang="rus">есть ли?</xt>
-         </xg>
-         <xg>
-            <x>он-ӧ вись?</x>
-            <xt xml:lang="fin">Oletko sairas?</xt>
-            <xt xml:lang="rus">ты не болен ли?</xt>
-         </xg>
-         <xg>
-            <x>ті он-ӧ собрание вылӧ мунӧ?</x>
-            <xt xml:lang="fin">Menettekö kokoukseen?</xt>
-            <xt xml:lang="rus">вы не на собрание ли идёте?</xt>
-         </xg>
+         <tg xml:lang="fin">
+            <t pos="Pcle"/>
+         </tg>
       </mg>
    </e>
-   <e order="2">
+  <e>
+      <lg>
+         <l pos="ADV">кам</l>
+         <stg>
+            <st Contlex="ADV_">кам</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t pos="Pcle"/>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Pcle"/>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="Descr">бультік</l>
+         <stg>
+            <st Contlex="ONOM_">бультік</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t pos="Descr">plop!</t>
+            <t pos="Descr">splash!</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Descr">polskis</t>
+            <t pos="Descr">molskis</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="Descr">бут</l>
+         <stg>
+            <st Contlex="ONOM_">бут</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t pos="Descr">slam!</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Descr">mäiskis</t>
+            <t pos="Descr">pam</t>
+            <td pos="Pcle">(esineen heittämisestä syntyvä ääni)</td>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="Descr">быз</l>
+         <stg>
+            <st Contlex="ONOM_">быз</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="eng">
+            <t pos="Descr">plop</t>
+            <t pos="Descr">splash</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Descr">molskis</t>
+            <t pos="Descr">plätsis</t>
+         </tg>
+      </mg>
+   </e>
+  <e order="2">
       <lg>
          <l pos="Pcle">а</l>
          <stg>
@@ -134,81 +166,7 @@
          </xg>
       </mg>
    </e>
-   <e exclude="fst" order="2">
-      <lg>
-         <l pos="Pcle">а</l>
-         <stg>
-            <st Contlex="PCLE_">а</st>
-         </stg>
-      </lg>
-      <pos>Q_PCLE</pos>
-      <mg No="2">
-         <m>
-            <head>
-               <re>усил.</re>
-            </head>
-         </m>
-         <tg xml:lang="rus">
-            <t pos="Pcle">только, ведь</t>
-         </tg>
-         <xg>
-            <x>кыдз тэ сійӧс терпитан-а!</x>
-            <xt xml:lang="fin">Kuinka ihmeessä sinä kestät häntä?</xt>
-            <xt xml:lang="rus">как ты только его терпишь!</xt>
-         </xg>
-         <xg>
-            <x>эз лок, кӧсйысис-а</x>
-            <xt xml:lang="fin">Hän ei tullut, vaikka lupasi.</xt>
-            <xt xml:lang="rus">он не пришёл, обещал ведь</xt>
-         </xg>
-      </mg>
-      <mg No="4">
-         <m>
-            <head>
-               <re>чаще в сочет. с нек-рыми частицами</re>
-            </head>
-         </m>
-         <tg xml:lang="rus">
-            <t pos="Pcle">и</t>
-         </tg>
-         <xg>
-            <x>мый бара сӧран-а?</x>
-            <xt xml:lang="fin">Mitä sinä taas sekoilet?</xt>
-            <xt>Mitä sinä taas sotket?</xt>
-            <xt xml:lang="rus">и что ты только мелешь?</xt>
-         </xg>
-      </mg>
-      <mg No="5">
-         <m>
-            <head>
-               <re>чаще в сочет. с нек-рыми частицами</re>
-            </head>
-         </m>
-         <tg xml:lang="rus">
-            <t pos="Pcle">должно быть</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="Pcle">может быть</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="Pcle">видимо, видно</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="Pcle">вероятно</t>
-         </tg>
-         <xg>
-            <x>ме кӧ ог нин мун-а</x>
-            <xt xml:lang="fin">Minä en varmaankaan mene.</xt>
-            <xt xml:lang="rus">я, вероятно, уж не пойду</xt>
-         </xg>
-         <xg>
-            <x>оз кӧ зэрмы-а</x>
-            <xt xml:lang="fin">Ei näytä tulevan sadetta.</xt>
-            <xt xml:lang="rus">видимо, дождя не будет</xt>
-         </xg>
-      </mg>
-   </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">а-а</l>
          <stg>
@@ -222,7 +180,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">абу</l>
          <stg>
@@ -239,7 +197,8 @@
          </tg>
          <tg xml:lang="fin">
             <tCtn>
-               <t pos="Pcle">ei</t>
+	      <t pos="Pcle">ei</t>
+	      <t pos="Pcle">epä-</t>
                <re>määrittelee substantiiveja, ad-adjektiiveja, adjektiiveja, substantiivinmäärittelijöitä, toista preteriitiä</re>
             </tCtn>
          </tg>
@@ -420,7 +379,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">абу</l>
          <stg>
@@ -496,7 +455,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">али</l>
          <stg>
@@ -552,7 +511,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">бара</l>
          <stg>
@@ -693,7 +652,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">бау</l>
          <stg>
@@ -716,7 +675,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">бласлӧ</l>
          <stg>
@@ -730,7 +689,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">бри</l>
          <stg>
@@ -744,7 +703,31 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
+      <lg>
+         <l pos="Pcle">буди</l>
+         <stg>
+            <st Contlex="AdvParenthetic">буди</st>
+         </stg>
+      </lg>
+      <pos>ADV-PARENTHETIC</pos>
+      <mg No="2">
+         <defNative/>
+         <tg xml:lang="rus">
+            <tCtn>
+               <t pos="Pcle">скажем</t>
+               <register register="conversation"/>
+            </tCtn>
+            <t pos="Pcle">например, положим</t>
+         </tg>
+         <xg>
+            <x>нӧшта кӧ буди лун-мӧд зэрас</x>
+            <xt xml:lang="fin">Jos sadetta tulisikin vielä pari päivää.</xt>
+            <xt xml:lang="rus">если, скажем, дождь продлится ещё несколько дней</xt>
+         </xg>
+      </mg>
+   </e>
+  <e order="2">
       <lg>
          <l pos="Pcle">буди</l>
          <stg>
@@ -785,31 +768,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
-      <lg>
-         <l pos="Pcle">буди</l>
-         <stg>
-            <st Contlex="AdvParenthetic">буди</st>
-         </stg>
-      </lg>
-      <pos>ADV-PARENTHETIC</pos>
-      <mg No="2">
-         <defNative/>
-         <tg xml:lang="rus">
-            <tCtn>
-               <t pos="Pcle">скажем</t>
-               <register register="conversation"/>
-            </tCtn>
-            <t pos="Pcle">например, положим</t>
-         </tg>
-         <xg>
-            <x>нӧшта кӧ буди лун-мӧд зэрас</x>
-            <xt xml:lang="fin">Jos sadetta tulisikin vielä pari päivää.</xt>
-            <xt xml:lang="rus">если, скажем, дождь продлится ещё несколько дней</xt>
-         </xg>
-      </mg>
-   </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">будичи</l>
          <stg>
@@ -831,26 +790,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="Descr">бультік</l>
-         <stg>
-            <st Contlex="ONOM_">бультік</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg xml:lang="eng">
-            <t pos="Descr">plop!</t>
-            <t pos="Descr">splash!</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Descr">polskis</t>
-            <t pos="Descr">molskis</t>
-         </tg>
-      </mg>
-   </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">буретш</l>
          <stg>
@@ -872,26 +812,7 @@
          </xg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="Descr">бут</l>
-         <stg>
-            <st Contlex="ONOM_">бут</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg xml:lang="eng">
-            <t pos="Descr">slam!</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Descr">mäiskis</t>
-            <t pos="Descr">pam</t>
-            <td pos="Pcle">(esineen heittämisestä syntyvä ääni)</td>
-         </tg>
-      </mg>
-   </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">быдӧн</l>
          <stg>
@@ -932,26 +853,7 @@
          </xg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="Descr">быз</l>
-         <stg>
-            <st Contlex="ONOM_">быз</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg xml:lang="eng">
-            <t pos="Descr">plop</t>
-            <t pos="Descr">splash</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Descr">molskis</t>
-            <t pos="Descr">plätsis</t>
-         </tg>
-      </mg>
-   </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">бызӧ-базӧ</l>
          <stg>
@@ -966,7 +868,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">быттьӧ</l>
          <stg>
@@ -1091,7 +993,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">быттьӧкӧ</l>
          <stg>
@@ -1116,7 +1018,7 @@
          </m>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">быттьӧкӧнӧсь</l>
          <stg>
@@ -1130,7 +1032,7 @@
          </m>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">быть</l>
          <stg>
@@ -1156,7 +1058,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">вай</l>
          <stg>
@@ -1173,7 +1075,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">вед</l>
          <stg>
@@ -1206,7 +1108,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">век жӧ</l>
          <stg>
@@ -1223,7 +1125,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">весиг</l>
          <stg>
@@ -1260,7 +1162,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">весигтӧ</l>
          <stg>
@@ -1274,7 +1176,7 @@
          </m>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">видзӧд</l>
          <stg>
@@ -1301,7 +1203,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">видзӧд</l>
          <stg>
@@ -1320,7 +1222,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">вильс</l>
          <stg>
@@ -1334,7 +1236,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">вот</l>
          <stg>
@@ -1380,7 +1282,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">выйӧдз</l>
          <stg>
@@ -1401,7 +1303,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">вӧд</l>
          <stg>
@@ -1416,7 +1318,7 @@
          </m>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">вӧлӧм</l>
          <stg>
@@ -1471,7 +1373,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">вӧлӧмкӧ</l>
          <stg>
@@ -1490,7 +1392,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">герч</l>
          <stg>
@@ -1507,25 +1409,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="ADV">гизь</l>
-         <stg>
-            <st Contlex="ADV_">гизь</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg xml:lang="eng">
-            <t pos="Pcle">next to each other</t>
-            <t pos="Pcle">side by side</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pcle"/>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">голь</l>
          <stg>
@@ -1542,7 +1426,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">гольс</l>
          <stg>
@@ -1559,7 +1443,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">гудж</l>
          <stg>
@@ -1576,7 +1460,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">гур</l>
          <stg>
@@ -1593,7 +1477,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">да</l>
          <stg>
@@ -1616,7 +1500,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">да</l>
          <stg>
@@ -1676,7 +1560,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">да</l>
          <stg>
@@ -1699,7 +1583,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">давай</l>
          <stg>
@@ -1732,7 +1616,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">дай</l>
          <stg>
@@ -1785,7 +1669,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">дак</l>
          <stg>
@@ -1816,7 +1700,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">дзиз</l>
          <stg>
@@ -1835,7 +1719,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">дзик</l>
          <stg>
@@ -1855,7 +1739,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">дзикӧдз</l>
          <stg>
@@ -1877,7 +1761,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">ещӧ</l>
          <stg>
@@ -1899,7 +1783,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">жӧ</l>
          <stg>
@@ -1935,7 +1819,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">зато</l>
          <stg>
@@ -1952,7 +1836,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">зур</l>
          <stg>
@@ -1969,7 +1853,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">и</l>
          <stg>
@@ -2021,7 +1905,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">инӧ</l>
          <stg>
@@ -2048,7 +1932,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">инӧ</l>
          <stg>
@@ -2076,7 +1960,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">инӧсь</l>
          <stg>
@@ -2090,24 +1974,7 @@
          </m>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="ADV">кам</l>
-         <stg>
-            <st Contlex="ADV_">кам</st>
-         </stg>
-      </lg>
-      <mg>
-         <defNative/>
-         <tg xml:lang="eng">
-            <t pos="Pcle"/>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="Pcle"/>
-         </tg>
-      </mg>
-   </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">кос</l>
          <stg>
@@ -2137,7 +2004,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">кӧ</l>
          <stg>
@@ -2171,7 +2038,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">кӧть еськӧ</l>
          <stg>
@@ -2190,7 +2057,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">ладнӧ</l>
          <stg>
@@ -2212,7 +2079,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">ли</l>
          <stg>
@@ -2243,7 +2110,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">либӧ</l>
          <stg>
@@ -2268,7 +2135,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">мед</l>
          <stg>
@@ -2343,7 +2210,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">медлы</l>
          <stg>
@@ -2370,7 +2237,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">медлыты</l>
          <stg>
@@ -2387,7 +2254,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">медлытыкӧ</l>
          <stg>
@@ -2410,7 +2277,7 @@
          </m>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">медлытӧ</l>
          <stg>
@@ -2431,7 +2298,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">медся</l>
          <stg>
@@ -2506,7 +2373,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">медтыкӧ</l>
          <stg>
@@ -2554,7 +2421,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">медтӧ</l>
          <stg>
@@ -2592,7 +2459,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">медъя</l>
          <stg>
@@ -2609,7 +2476,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">мися</l>
          <stg>
@@ -2719,7 +2586,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">мунтӧ</l>
          <stg>
@@ -2737,7 +2604,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">муртса</l>
          <stg>
@@ -2763,7 +2630,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">мӧй</l>
          <stg>
@@ -2794,7 +2661,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">на</l>
          <stg>
@@ -2837,7 +2704,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">на</l>
          <stg>
@@ -2883,7 +2750,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">не</l>
          <stg>
@@ -2948,28 +2815,7 @@
          </xg>
       </mg>
    </e>
-   <e exclude="fst" order="2">
-      <lg>
-         <l pos="Pcle">не_...</l>
-         <stg>
-            <st Contlex="PCLE_">не_...</st>
-         </stg>
-      </lg>
-      <i>приставка</i>
-      <mg relId="0">
-         <defNative/>
-         <tg xml:lang="rus">
-            <t pos="Pcle">не</t>
-         </tg>
-      </mg>
-      <mg No="2">
-         <defNative/>
-         <tg xml:lang="rus">
-            <t pos="Pcle">ни</t>
-         </tg>
-      </mg>
-   </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">немас</l>
          <stg>
@@ -3012,7 +2858,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">неужели</l>
          <stg>
@@ -3032,7 +2878,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">ни</l>
          <stg>
@@ -3099,7 +2945,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">нин</l>
          <stg>
@@ -3131,7 +2977,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">нисьӧ</l>
          <stg>
@@ -3148,7 +2994,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">но</l>
          <stg>
@@ -3189,7 +3035,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">нӧ</l>
          <stg>
@@ -3261,36 +3107,7 @@
          </xg>
       </mg>
    </e>
-   <e exclude="fst" order="2">
-      <lg>
-         <l pos="Pcle">петлӧ</l>
-         <stg>
-            <st Contlex="PCLE_">петлӧ</st>
-         </stg>
-      </lg>
-      <pos>V-FINITE</pos>
-      <mg>
-         <m>
-            <head>
-               <re>в роли сказ.</re>
-            </head>
-            <semRel No="1" lemmaID="тырмас" semRelType="seeAlso"/>
-         </m>
-         <tg xml:lang="rus">
-            <t pos="Pcle">хватит, довольно</t>
-         </tg>
-         <xg>
-            <x>петлӧ , эн бӧрд</x>
-            <xt xml:lang="rus">хватит, не плачь</xt>
-         </xg>
-         <xg>
-            <x>петлӧ сэсся нюйтӧ варччыны</x>
-            <xt xml:lang="rus">хватит с меня, научен горьким опытом</xt>
-            <xt tType="literal" xml:lang="rus">хватит впредь плыть на тину</xt>
-         </xg>
-      </mg>
-   </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">прӧста</l>
          <stg>
@@ -3322,7 +3139,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">пӧ</l>
          <stg>
@@ -3340,7 +3157,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">пӧжалуй</l>
          <stg>
@@ -3361,7 +3178,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">пӧжалуйста</l>
          <stg>
@@ -3379,7 +3196,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">со</l>
          <stg>
@@ -3430,7 +3247,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">сьӧтаки</l>
          <stg>
@@ -3444,7 +3261,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">сӧмын</l>
          <stg>
@@ -3481,7 +3298,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">та</l>
          <stg>
@@ -3500,7 +3317,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">тай</l>
          <stg>
@@ -3568,7 +3385,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">тайкӧ</l>
          <stg>
@@ -3590,7 +3407,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">тарк</l>
          <stg>
@@ -3607,7 +3424,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">то</l>
          <stg>
@@ -3639,7 +3456,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">толькӧ</l>
          <stg>
@@ -3661,7 +3478,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">тон</l>
          <stg>
@@ -3710,7 +3527,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">тонӧ</l>
          <stg>
@@ -3742,7 +3559,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="Pcle">тулуллу</l>
          <stg>
@@ -3759,7 +3576,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">тшӧтш</l>
          <stg>
@@ -3782,7 +3599,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">тыкӧ</l>
          <stg>
@@ -3809,7 +3626,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">тӧкӧтьӧ</l>
          <stg>
@@ -3845,7 +3662,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">часлы</l>
          <stg>
@@ -3860,7 +3677,7 @@
          </m>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">часлыв</l>
          <stg>
@@ -3875,7 +3692,7 @@
          </m>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">чурки-буди</l>
          <stg>
@@ -3902,7 +3719,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">чӧв</l>
          <stg>
@@ -3927,7 +3744,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">чӧвлы</l>
          <stg>
@@ -3946,7 +3763,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">ыш</l>
          <stg>
@@ -3961,7 +3778,7 @@
          </m>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">ыштӧ</l>
          <stg>
@@ -3979,7 +3796,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">энлыв</l>
          <stg>
@@ -4017,7 +3834,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">эськӧ</l>
          <stg>
@@ -4091,7 +3908,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">эськӧн</l>
          <stg>
@@ -4110,7 +3927,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">ӧд</l>
          <stg>
@@ -4127,7 +3944,7 @@
          </tg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">ӧдвакӧ</l>
          <stg>
@@ -4150,7 +3967,7 @@
          </xg>
       </mg>
    </e>
-   <e order="2">
+  <e order="2">
       <lg>
          <l pos="Pcle">ӧнжа</l>
          <stg>
@@ -4173,6 +3990,188 @@
                <re>употр. тж. для замены в речи вульгарных названий</re>
             </tCtn>
          </tg>
+      </mg>
+   </e>
+  <e exclude="fst" order="2">
+      <lg>
+         <l pos="Pcle">-кӧ</l>
+         <stg>
+            <st Contlex="PCLE_">-кӧ</st>
+         </stg>
+      </lg>
+      <mg relId="0">
+         <m>
+            <head>
+               <re>при числ.</re>
+            </head>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="Pcle">во-</t>
+         </tg>
+         <xg>
+            <x>ӧти-кӧ</x>
+            <xt xml:lang="fin">ensiksikin</xt>
+            <xt>ensinnäkin</xt>
+            <xt xml:lang="rus">во-первых</xt>
+         </xg>
+         <xg>
+            <x>мӧд-кӧ</x>
+            <xt xml:lang="fin">toiseksi</xt>
+            <xt xml:lang="rus">во-вторых</xt>
+         </xg>
+      </mg>
+   </e>
+  <e exclude="fst" order="2">
+      <lg>
+         <l pos="Pcle">-ӧ</l>
+         <stg>
+            <st Contlex="PCLE-QST_">-ӧ</st>
+         </stg>
+      </lg>
+      <mg>
+         <defNative/>
+         <tg xml:lang="rus">
+            <t pos="Q_PCLE">ли</t>
+         </tg>
+         <xg>
+            <x>эм-ӧ?</x>
+            <xt xml:lang="fin">onko?</xt>
+            <xt xml:lang="rus">есть ли?</xt>
+         </xg>
+         <xg>
+            <x>он-ӧ вись?</x>
+            <xt xml:lang="fin">Oletko sairas?</xt>
+            <xt xml:lang="rus">ты не болен ли?</xt>
+         </xg>
+         <xg>
+            <x>ті он-ӧ собрание вылӧ мунӧ?</x>
+            <xt xml:lang="fin">Menettekö kokoukseen?</xt>
+            <xt xml:lang="rus">вы не на собрание ли идёте?</xt>
+         </xg>
+      </mg>
+   </e>
+  <e exclude="fst" order="2">
+      <lg>
+         <l pos="Pcle">а</l>
+         <stg>
+            <st Contlex="PCLE_">а</st>
+         </stg>
+      </lg>
+      <pos>Q_PCLE</pos>
+      <mg No="2">
+         <m>
+            <head>
+               <re>усил.</re>
+            </head>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="Pcle">только, ведь</t>
+         </tg>
+         <xg>
+            <x>кыдз тэ сійӧс терпитан-а!</x>
+            <xt xml:lang="fin">Kuinka ihmeessä sinä kestät häntä?</xt>
+            <xt xml:lang="rus">как ты только его терпишь!</xt>
+         </xg>
+         <xg>
+            <x>эз лок, кӧсйысис-а</x>
+            <xt xml:lang="fin">Hän ei tullut, vaikka lupasi.</xt>
+            <xt xml:lang="rus">он не пришёл, обещал ведь</xt>
+         </xg>
+      </mg>
+      <mg No="4">
+         <m>
+            <head>
+               <re>чаще в сочет. с нек-рыми частицами</re>
+            </head>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="Pcle">и</t>
+         </tg>
+         <xg>
+            <x>мый бара сӧран-а?</x>
+            <xt xml:lang="fin">Mitä sinä taas sekoilet?</xt>
+            <xt>Mitä sinä taas sotket?</xt>
+            <xt xml:lang="rus">и что ты только мелешь?</xt>
+         </xg>
+      </mg>
+      <mg No="5">
+         <m>
+            <head>
+               <re>чаще в сочет. с нек-рыми частицами</re>
+            </head>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="Pcle">должно быть</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="Pcle">может быть</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="Pcle">видимо, видно</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="Pcle">вероятно</t>
+         </tg>
+         <xg>
+            <x>ме кӧ ог нин мун-а</x>
+            <xt xml:lang="fin">Minä en varmaankaan mene.</xt>
+            <xt xml:lang="rus">я, вероятно, уж не пойду</xt>
+         </xg>
+         <xg>
+            <x>оз кӧ зэрмы-а</x>
+            <xt xml:lang="fin">Ei näytä tulevan sadetta.</xt>
+            <xt xml:lang="rus">видимо, дождя не будет</xt>
+         </xg>
+      </mg>
+   </e>
+  <e exclude="fst" order="2">
+      <lg>
+         <l pos="Pcle">не_...</l>
+         <stg>
+            <st Contlex="PCLE_">не_...</st>
+         </stg>
+      </lg>
+      <i>приставка</i>
+      <mg relId="0">
+         <defNative/>
+         <tg xml:lang="rus">
+            <t pos="Pcle">не</t>
+         </tg>
+      </mg>
+      <mg No="2">
+         <defNative/>
+         <tg xml:lang="rus">
+            <t pos="Pcle">ни</t>
+         </tg>
+      </mg>
+   </e>
+  <e exclude="fst" order="2">
+      <lg>
+         <l pos="Pcle">петлӧ</l>
+         <stg>
+            <st Contlex="PCLE_">петлӧ</st>
+         </stg>
+      </lg>
+      <pos>V-FINITE</pos>
+      <mg>
+         <m>
+            <head>
+               <re>в роли сказ.</re>
+            </head>
+            <semRel No="1" lemmaID="тырмас" semRelType="seeAlso"/>
+         </m>
+         <tg xml:lang="rus">
+            <t pos="Pcle">хватит, довольно</t>
+         </tg>
+         <xg>
+            <x>петлӧ , эн бӧрд</x>
+            <xt xml:lang="rus">хватит, не плачь</xt>
+         </xg>
+         <xg>
+            <x>петлӧ сэсся нюйтӧ варччыны</x>
+            <xt xml:lang="rus">хватит с меня, научен горьким опытом</xt>
+            <xt tType="literal" xml:lang="rus">хватит впредь плыть на тину</xt>
+         </xg>
       </mg>
    </e>
 </r>
