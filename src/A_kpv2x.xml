@@ -411,20 +411,6 @@
          </tg>
       </mg>
    </e>
-gitatsionn-ij" id="137">
-     <l pos="A">агитационнӧй</l>
-       <l_var type="molodtsov-cyr">aгітаціоннӧј</l_var>
-       </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="A">агитационный</t>
-       </tg>
-     <xg>
-       <x>агитационнӧй удж</x>
-       <xt xml:lang="rus">агитационная работа</xt>
-       </xg>
-       </mg>
-       </e>
   <e>
    <lg t1="А" t2="Г" t3="И" uri="137-agitatsionn-ij" id="137">
      <l pos="A">агитационнӧй</l>
@@ -1148,18 +1134,6 @@ gitatsionn-ij" id="137">
          </xg>
       </mg>
    </e>
->aноԋімнӧј</l_var>
-</lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="A">анонимный</t>
-       </tg><br/>
-     <xg>
-       <x>анонимнӧй гижӧд</x>
-       <xt xml:lang="rus">анонимное письмо</xt>
-       </xg>; <sg><s pos="A" s_type="seeAlso">нимпастӧм</s></sg>
-       </mg>
-       </e>
   <e>
    <lg t1="А" t2="Н" t3="О" uri="577-anonimn-ij" id="577">
      <l pos="A">анонимнӧй</l>
