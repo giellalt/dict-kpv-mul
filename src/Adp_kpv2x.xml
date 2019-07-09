@@ -194,6 +194,10 @@
       <tg xml:lang="rus">
         <t pos="Pr">около, подле, возле, у, мимо (кого-чего-л.)</t>
       </tg>
+      
+      <tg xml:lang="eng">
+      <t>by side</t>
+      </tg>
 
       <xg>
         <x>джуджыд кыркӧтш бердті</x>
@@ -951,6 +955,24 @@
 
         <xt xml:lang="rus">поселиться у ручья</xt>
       </xg>
+    </mg>
+  </e>
+  <e order="2">
+    <lg>
+      <l pos="Po">бокӧд</l>
+
+      <stg>
+        <st Contlex="PO-SPAT-PRL">бок</st>
+      </stg>
+    </lg>
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>by side</t>
+      </tg>
     </mg>
   </e>
   <e order="2">
@@ -3012,7 +3034,7 @@
       </m>
 
       <tg xml:lang="eng">
-        <t/>
+        <t>over</t>
       </tg>
 
       <tg xml:lang="fin">
@@ -4542,6 +4564,10 @@
         </head>
       </m>
 
+      <tg xml:lang="eng">
+        <t>by side</t>
+      </tg>
+
       <tg xml:lang="rus">
         <t pos="Pr">около, подле, возле, мимо (кого-чего-л.)</t>
       </tg>
@@ -5306,6 +5332,10 @@
 
       <tg xml:lang="rus">
         <t pos="Pr">около, возле, вблизи (кого-чего-л.)</t>
+      </tg>
+      
+      <tg xml:lang="eng">
+        <t>by root</t>
       </tg>
 
       <xg>
@@ -6516,6 +6546,10 @@
           <re>чем-л.</re>
         </tCtn>
       </tg>
+      
+      <tg xml:lang="eng">
+          <t>among</t>
+      </tg>
 
       <xg>
         <x>ас костын</x>
@@ -6564,6 +6598,27 @@
       </xg>
     </mg>
   </e>
+  <e order="2">
+    <lg>
+      <l pos="Po">кост</l>
+
+      <stg>
+        <st Contlex="PO-SPAT-NOM">кост</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <m>
+        <head/>
+      </m>
+
+      <tg xml:lang="eng">
+        <t>middle</t>
+      </tg>
+
+    </mg>
+  </e>
+
   <e order="2">
     <lg>
       <l pos="Po">костысь</l>
@@ -6712,6 +6767,10 @@
 
           <re>чем-л.</re>
         </tCtn>
+      </tg>
+
+      <tg xml:lang="eng">
+          <t>by middle</t>
       </tg>
 
       <xg>
@@ -17426,6 +17485,22 @@
       </xg>
     </mg>
   </e>
+  
+  <e exclude="fst" order="2">
+    <lg>
+      <l pos="Po">пытшті</l>
+    </lg>
+
+    <pos>POSTP-SPAT</pos>
+
+    <mg>
+
+      <tg xml:lang="eng">
+        <t>by inside</t>
+      </tg>
+    </mg>
+  </e>
+
   <e exclude="fst" order="2">
     <lg>
       <l pos="Po">пӧвстын</l>
@@ -18847,6 +18922,10 @@
 
           <re>чем-л.</re>
         </tCtn>
+      </tg>
+
+      <tg xml:lang="eng">
+          <t>through bottom</t>
       </tg>
 
       <xg>
