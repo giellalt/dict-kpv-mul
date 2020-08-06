@@ -175,9 +175,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pcle"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -334,9 +331,9 @@
             <xt xml:lang="eng">unfitting</xt>
             <xt xml:lang="eng">not fitting??</xt>
             <xt xml:lang="fin">ei ole sopivaa</xt>
-            <xt>ei ole mukavaa</xt>
-            <xt>on epämukavaa</xt>
-            <xt>ei ole kivaa</xt>
+            <xt xml:lang="fin">ei ole mukavaa</xt>
+            <xt xml:lang="fin">on epämukavaa</xt>
+            <xt xml:lang="fin">ei ole kivaa</xt>
             <xt xml:lang="fin">on sopimatonta</xt>
          </xg>
       </mg>
@@ -395,7 +392,7 @@
          <xg>
             <x>абу вывті дона</x>
             <xt xml:lang="fin">[Se] ei ole kovin kallis.</xt>
-            <xt>[Se] ei ole liian kallis.</xt>
+            <xt xml:lang="fin">[Se] ei ole liian kallis.</xt>
             <xt xml:lang="rus">не очень дорого</xt>
          </xg>
          <xg>
@@ -421,15 +418,15 @@
          <xg>
             <x>абу дыр</x>
             <xt xml:lang="fin">ei kauan</xt>
-            <xt>lyhyen ajan</xt>
+            <xt xml:lang="fin">lyhyen ajan</xt>
             <xt xml:lang="rus">недолго</xt>
          </xg>
          <xg>
             <x>абу лӧсьыд</x>
             <xt xml:lang="fin">ei ole mukavaa</xt>
-            <xt>ei ole kivaa</xt>
-            <xt>ei ole sopivaa</xt>
-            <xt>on sopimatonta</xt>
+            <xt xml:lang="fin">ei ole kivaa</xt>
+            <xt xml:lang="fin">ei ole sopivaa</xt>
+            <xt xml:lang="fin">on sopimatonta</xt>
             <xt xml:lang="rus">нехорошо</xt>
          </xg>
          <xg>
@@ -484,7 +481,7 @@
          <xg>
             <x>тэ али мый ыджыдыс?</x>
             <xt xml:lang="fin">Oletko sinä todella suurin?</xt>
-            <xt>Oletko sinä todella vanhin?</xt>
+            <xt xml:lang="fin">Oletko sinä todella vanhin?</xt>
             <xt xml:lang="rus">ты что ли старший?</xt>
          </xg>
       </mg>
@@ -847,8 +844,8 @@
          <xg>
             <x>пӧсьӧ быдӧн шыбитіс</x>
             <xt xml:lang="fin">Hiki jopa kihahti [pintaan].</xt>
-            <xt>Ihan tuli hiki.</xt>
-            <xt>Heitti jopa hien [pintaan].</xt>
+            <xt xml:lang="fin">Ihan tuli hiki.</xt>
+            <xt xml:lang="fin">Heitti jopa hien [pintaan].</xt>
             <xt xml:lang="rus">даже в пот бросило</xt>
          </xg>
       </mg>
@@ -910,7 +907,7 @@
          </xg>
          <xg>
             <x>уськӧдчисны быттьӧ ракаяс</x>
-            <xt>He syöksyivät kuin varikset ikään.</xt>
+            <xt xml:lang="fin">He syöksyivät kuin varikset ikään.</xt>
             <xt xml:lang="rus">набросились словно вороньё</xt>
          </xg>
       </mg>
@@ -2174,7 +2171,7 @@
          <xg>
             <x>мед олас!</x>
             <xt xml:lang="fin">Olkoon!</xt>
-            <xt>Antaa olla!</xt>
+            <xt xml:lang="fin">Antaa olla!</xt>
             <xt xml:lang="rus">да здравствует!</xt>
          </xg>
          <xg>
@@ -2318,20 +2315,20 @@
          <xg>
             <x>медся дона</x>
             <xt xml:lang="fin">kallein</xt>
-            <xt>arvokkain</xt>
-            <xt>hintavin</xt>
+            <xt xml:lang="fin">arvokkain</xt>
+            <xt xml:lang="fin">hintavin</xt>
             <xt xml:lang="rus">самый дорогой</xt>
          </xg>
          <xg>
             <x>медся донатор</x>
             <xt xml:lang="fin">arvokkain [esine]</xt>
-            <xt>kallein [esine]</xt>
+            <xt xml:lang="fin">kallein [esine]</xt>
             <xt xml:lang="rus">самое дорогое</xt>
          </xg>
          <xg>
             <x>медся ён</x>
             <xt xml:lang="fin">voimakkain</xt>
-            <xt>vahvin</xt>
+            <xt xml:lang="fin">vahvin</xt>
             <xt xml:lang="rus">самый сильный</xt>
          </xg>
          <xg>
@@ -2350,12 +2347,12 @@
          <xg>
             <x>медся повтӧм</x>
             <xt xml:lang="fin">pelottomin</xt>
-            <xt>rohkein</xt>
+            <xt xml:lang="fin">rohkein</xt>
             <xt xml:lang="rus">самый смелый</xt>
          </xg>
          <xg>
             <x>медся ыджыд кӧсйӧм</x>
-            <xt>suurin toive</xt>
+            <xt xml:lang="fin">suurin toive</xt>
             <xt xml:lang="rus">самое большое желание</xt>
          </xg>
          <xg>
@@ -2896,7 +2893,7 @@
          </xg>
          <xg>
             <x>ни ӧти морт эз вӧв</x>
-            <xt>[Siellä] ei ollut yhtään ihmistä.</xt>
+            <xt xml:lang="fin">[Siellä] ei ollut yhtään ihmistä.</xt>
             <xt xml:lang="rus">не было ни одного человека</xt>
          </xg>
          <xg>
@@ -2960,7 +2957,7 @@
          <xg>
             <x>абу нин окота узьны</x>
             <xt xml:lang="fin">Ei haluta enää nukkua.</xt>
-            <xt>Ei huvita enää nukkua.</xt>
+            <xt xml:lang="fin">Ei huvita enää nukkua.</xt>
             <xt xml:lang="rus">уже не хочется спать</xt>
          </xg>
          <xg>
@@ -4011,7 +4008,7 @@
          <xg>
             <x>ӧти-кӧ</x>
             <xt xml:lang="fin">ensiksikin</xt>
-            <xt>ensinnäkin</xt>
+            <xt xml:lang="fin">ensinnäkin</xt>
             <xt xml:lang="rus">во-первых</xt>
          </xg>
          <xg>
@@ -4090,7 +4087,7 @@
          <xg>
             <x>мый бара сӧран-а?</x>
             <xt xml:lang="fin">Mitä sinä taas sekoilet?</xt>
-            <xt>Mitä sinä taas sotket?</xt>
+            <xt xml:lang="fin">Mitä sinä taas sotket?</xt>
             <xt xml:lang="rus">и что ты только мелешь?</xt>
          </xg>
       </mg>

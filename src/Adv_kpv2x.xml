@@ -2819,9 +2819,6 @@
       <pos>ADV-SPAT</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -4344,9 +4341,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -5773,9 +5767,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -5993,9 +5984,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -8524,9 +8512,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -8628,9 +8613,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -10417,9 +10399,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -10508,9 +10487,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -11375,9 +11351,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -11475,9 +11448,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -12423,9 +12393,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -12448,7 +12415,7 @@
                <xt xml:lang="rus">кануть</xt>
             </xtCtn>
             <xtCtn>
-               <xt>утонуть</xt>
+               <xt xml:lang="rus">утонуть</xt>
                <re>мгновенно</re>
             </xtCtn>
          </xg>
@@ -12554,9 +12521,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -12656,9 +12620,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -13278,9 +13239,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -13423,9 +13381,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -13735,9 +13690,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -13937,9 +13889,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -14135,9 +14084,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -14374,9 +14320,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -15629,9 +15572,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -15888,9 +15828,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -16292,9 +16229,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -16755,9 +16689,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -17508,9 +17439,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -17661,9 +17589,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -17938,9 +17863,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -18593,9 +18515,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -19843,9 +19762,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -20055,9 +19971,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -21350,9 +21263,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -21420,9 +21330,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -21444,9 +21351,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -22218,9 +22122,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -23955,9 +23856,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -24183,9 +24081,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -25742,9 +25637,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -25855,9 +25747,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -26007,9 +25896,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -26090,9 +25976,6 @@
       <pos>ADV-TEMP</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -26568,9 +26451,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -26775,9 +26655,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -27072,9 +26949,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -27563,9 +27437,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -28183,9 +28054,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -28231,9 +28099,6 @@
       <pos>ADV-ITER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -28373,9 +28238,6 @@
       <pos>Adv-Iter</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -28584,9 +28446,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -29002,9 +28861,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -29083,9 +28939,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -29511,9 +29364,6 @@
       <pos>ADV-TEMP</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -29630,9 +29480,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -30314,9 +30161,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -30870,9 +30714,6 @@
       <pos>Adv-Iter</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -31324,9 +31165,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -31412,9 +31250,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -32174,9 +32009,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -34013,9 +33845,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -34200,9 +34029,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -34352,9 +34178,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -34492,9 +34315,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -34755,9 +34575,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -34884,9 +34701,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -35631,9 +35445,6 @@
       <pos>ADV-TEMP</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -36474,9 +36285,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -36560,9 +36368,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -37481,9 +37286,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -37626,9 +37428,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -38545,9 +38344,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -38655,9 +38451,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -38768,9 +38561,6 @@
       <pos>ADV-TEMP</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -38817,9 +38607,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -38963,9 +38750,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -39491,9 +39275,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -40932,9 +40713,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -42215,9 +41993,6 @@
       <pos>ADV-SPAT</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -42642,9 +42417,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -42746,9 +42518,6 @@
       <pos>ADV-SPAT</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -42933,9 +42702,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -43135,9 +42901,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -43198,9 +42961,6 @@
       <pos>Adv-Iter</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -43697,9 +43457,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -43865,9 +43622,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -43922,9 +43676,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -43978,9 +43729,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -44051,9 +43799,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -44395,9 +44140,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -44495,9 +44237,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -45622,9 +45361,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -46579,9 +46315,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -46819,9 +46552,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -47634,9 +47364,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -47721,9 +47448,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -48176,9 +47900,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -48450,9 +48171,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -48584,9 +48302,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -48685,9 +48400,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -49302,9 +49014,6 @@
       <pos>Adv-Iter</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -49586,9 +49295,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -52205,9 +51911,6 @@
       <pos>ADV-MANNER</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -52488,9 +52191,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -53283,9 +52983,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -53436,9 +53133,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -55434,9 +55128,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -55530,9 +55221,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -56911,9 +56599,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -57042,7 +56727,7 @@
          </xg>
          <xg>
             <x>ӧдйӧ пузьысь</x>
-            <xt>быстро закипающий</xt>
+            <xt xml:lang="rus">быстро закипающий</xt>
             <xtCtn>
                <xt xml:lang="rus">вспыльчивый</xt>
                <sense sense="figurative"/>
@@ -57493,9 +57178,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -57575,9 +57257,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -57748,9 +57427,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -57911,9 +57587,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -58002,9 +57675,6 @@
       <pos>ADV-SPAT</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -58561,9 +58231,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -58864,9 +58531,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -59175,9 +58839,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -60932,9 +60593,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Adv"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">

@@ -40,7 +40,7 @@
          <xg>
             <x>ас кырымпас</x>
             <xt xml:lang="fin">omakätinen allekirjoitus</xt>
-            <xt>autografi</xt>
+            <xt xml:lang="fin">autografi</xt>
             <xt pos="N" xml:lang="rus">автограф</xt>
          </xg>
          <xg>
@@ -71,8 +71,8 @@
          <xg>
             <x>ас табак</x>
             <xt xml:lang="fin">kessu</xt>
-            <xt>kotikasvuinen tupakka</xt>
-            <xt>palturi</xt>
+            <xt xml:lang="fin">kotikasvuinen tupakka</xt>
+            <xt xml:lang="fin">palturi</xt>
             <xt pos="N" xml:lang="rus">самосад</xt>
          </xg>
       </mg>
@@ -88,7 +88,7 @@
          <xg>
             <x>ас войтыр</x>
             <xt xml:lang="fin">oma kansa</xt>
-            <xt>oma väki</xt>
+            <xt xml:lang="fin">oma väki</xt>
             <xt xml:lang="rus">свои люди</xt>
          </xg>
          <xg>
@@ -932,7 +932,7 @@
          <xg>
             <x>быд пӧлӧс</x>
             <xt xml:lang="fin">kaikenlainen</xt>
-            <xt>kaikenmoinen</xt>
+            <xt xml:lang="fin">kaikenmoinen</xt>
             <xt xml:lang="rus">всяких сортов</xt>
          </xg>
          <xg>
@@ -986,9 +986,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -1015,9 +1012,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -1041,9 +1035,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -1140,7 +1131,7 @@
          <xg>
             <x>быдӧн тӧдӧны</x>
             <xt xml:lang="fin">jokainen tietää</xt>
-            <xt>kaikki tietävät</xt>
+            <xt xml:lang="fin">kaikki tietävät</xt>
             <xt xml:lang="rus">каждый знает</xt>
          </xg>
          <xg>
@@ -1156,7 +1147,7 @@
          <xg>
             <x>быдӧн вылӧ эн во</x>
             <xt xml:lang="fin">Älä takerru jokaiseen asiaan.</xt>
-            <xt>Älä saivartele.</xt>
+            <xt xml:lang="fin">Älä saivartele.</xt>
             <xt xml:lang="rus">ко всем не придирайся</xt>
          </xg>
          <xg genreType="proverb">
@@ -1222,9 +1213,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -1613,9 +1601,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -1829,7 +1814,7 @@
          <xg genreType="proverb">
             <x>кыті емыс, сэті и сунисыс</x>
             <xt xml:lang="fin">Mistä neula, sieltä lanka.</xt>
-            <xt>Mitä kautta neula, sitä kautta lanka.</xt>
+            <xt xml:lang="fin">Mitä kautta neula, sitä kautta lanka.</xt>
             <xt xml:lang="rus">куда иголка, туда и нитка</xt>
          </xg>
       </mg>
@@ -1926,7 +1911,7 @@
          <xg>
             <x>кӧть кытчӧ</x>
             <xt xml:lang="fin">vaikka minne</xt>
-            <xt>vaikka mihin</xt>
+            <xt xml:lang="fin">vaikka mihin</xt>
             <xt xml:lang="rus">хоть куда</xt>
          </xg>
          <xg>
@@ -2002,7 +1987,7 @@
          <xg>
             <x>кытчӧдз ветлінныд?</x>
             <xt xml:lang="fin">Mihin saakka kuljitte?</xt>
-            <xt>minne asti kuljitte?</xt>
+            <xt xml:lang="fin">minne asti kuljitte?</xt>
             <xt xml:lang="rus">докуда дошли?</xt>
          </xg>
       </mg>
@@ -2014,9 +1999,9 @@
          <xg>
             <x>сэтчӧдз, кытчӧдз</x>
             <xt xml:lang="fin">siihen saakka, kunnes</xt>
-            <xt>siihen asti, kunnes</xt>
-            <xt>sinne saakka, kunnes</xt>
-            <xt>sinne asti, kunnes</xt>
+            <xt xml:lang="fin">siihen asti, kunnes</xt>
+            <xt xml:lang="fin">sinne saakka, kunnes</xt>
+            <xt xml:lang="fin">sinne asti, kunnes</xt>
             <xt xml:lang="rus">до тех пор, пока;</xt>
          </xg>
          <xg>
@@ -2026,14 +2011,14 @@
          <xg>
             <x>кытчӧдз оз пемды</x>
             <xt xml:lang="fin">pimeän tuloon saakka</xt>
-            <xt>pimeän tuloon asti</xt>
+            <xt xml:lang="fin">pimeän tuloon asti</xt>
             <xt xml:lang="rus">пока не стемнеет</xt>
          </xg>
          <xg>
             <x>кытчӧдз оз чуксавны</x>
             <xt xml:lang="fin">herättämiseen saakka</xt>
-            <xt>herättämiseen asti</xt>
-            <xt>kunnes herätetään</xt>
+            <xt xml:lang="fin">herättämiseen asti</xt>
+            <xt xml:lang="fin">kunnes herätetään</xt>
             <xt xml:lang="rus">пока не разбудят</xt>
          </xg>
       </mg>
@@ -2045,9 +2030,9 @@
          <xg>
             <x>кытчӧдз тайӧ кутас кыссьыны</x>
             <xt xml:lang="fin">niin kauan kuin tämä kestää</xt>
-            <xt>niin kauan kuin tämä jatkuu</xt>
-            <xt>kunnes tämä päättyy</xt>
-            <xt>kunnes tämä loppuu</xt>
+            <xt xml:lang="fin">niin kauan kuin tämä jatkuu</xt>
+            <xt xml:lang="fin">kunnes tämä päättyy</xt>
+            <xt xml:lang="fin">kunnes tämä loppuu</xt>
             <xt xml:lang="rus">до каких пор это будет длиться</xt>
          </xg>
       </mg>
@@ -2129,9 +2114,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -2234,9 +2216,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -2487,8 +2466,8 @@
          <xg>
             <x>кӧнкӧ-кӧнкӧ эм нин тшак</x>
             <xt xml:lang="fin">Jossain on jo sieniä.</xt>
-            <xt>Joissakin paikoin on jo sieniä.</xt>
-            <xt>Paikka paikoin on jo sieniä.</xt>
+            <xt xml:lang="fin">Joissakin paikoin on jo sieniä.</xt>
+            <xt xml:lang="fin">Paikka paikoin on jo sieniä.</xt>
             <xt xml:lang="rus">кое-где уже есть грибы</xt>
          </xg>
       </mg>
@@ -2648,9 +2627,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -2767,9 +2743,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -3364,9 +3337,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -4147,9 +4117,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -4363,7 +4330,7 @@
          <xg>
             <x>нинӧмысь видны</x>
             <xt xml:lang="fin">olla moittimatta mistään</xt>
-            <xt>olla riitelemättä mistään</xt>
+            <xt xml:lang="fin">olla riitelemättä mistään</xt>
             <xt xml:lang="rus">не за что ругать</xt>
          </xg>
          <xg>
@@ -4426,7 +4393,7 @@
          <xg>
             <x>нинӧм абусӧ висьтавны</x>
             <xt xml:lang="fin">puhua joutavia</xt>
-            <xt>puhuä pötyä</xt>
+            <xt xml:lang="fin">puhuä pötyä</xt>
             <xt xml:lang="rus">говорить глупости, говорить чепуху</xt>
          </xg>
          <xg>
@@ -4462,13 +4429,13 @@
          <xg>
             <x>нинӧм дон оз сулав</x>
             <xt xml:lang="fin">ei ole minkään arvoinen</xt>
-            <xt>olla arvoton</xt>
+            <xt xml:lang="fin">olla arvoton</xt>
             <xt xml:lang="rus">ничего не стоит</xt>
          </xg>
          <xg>
             <x>меным тайӧ нинӧм дон оз сулав</x>
             <xt xml:lang="fin">Tämä ei ole minulle minkään arvoinen.</xt>
-            <xt>Tämä on minulle arvoton.</xt>
+            <xt xml:lang="fin">Tämä on minulle arvoton.</xt>
             <xt xml:lang="rus">мне это ничего не стоит</xt>
             <xt xml:lang="rus">мне это нипочём</xt>
          </xg>
@@ -4479,8 +4446,8 @@
          <xg>
             <x>сійӧ ачыс нинӧм дон оз сулав</x>
             <xt xml:lang="fin">Hän itse on vähäpätöinen.</xt>
-            <xt>Hän itse on merkityksetön.</xt>
-            <xt>Hän itse on mitätön.</xt>
+            <xt xml:lang="fin">Hän itse on merkityksetön.</xt>
+            <xt xml:lang="fin">Hän itse on mitätön.</xt>
             <xt xml:lang="rus">сам он ничего не стоит, сам он никчёмный</xt>
             <xt xml:lang="rus">сам он никудышный</xt>
          </xg>
@@ -4567,9 +4534,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -4620,7 +4584,7 @@
          <xg>
             <x>самӧй лёк</x>
             <xt xml:lang="fin">kaikkein pahin</xt>
-            <xt>kaikkein huonoin</xt>
+            <xt xml:lang="fin">kaikkein huonoin</xt>
             <xt xml:lang="rus">самый плохой</xt>
          </xg>
       </mg>
@@ -4662,9 +4626,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -4677,9 +4638,6 @@
       <pos>QNT-PRON</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e>
@@ -4887,9 +4845,6 @@
       <pos>QNT-PRON</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -4949,9 +4904,6 @@
       <pos>QNT-PRON</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -5338,9 +5290,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -5621,7 +5570,7 @@
          <xg>
             <x>мый тайӧ ?</x>
             <xt xml:lang="fin">Mikä tämä on?</xt>
-            <xt>Mikä tuo on?</xt>
+            <xt xml:lang="fin">Mikä tuo on?</xt>
             <xt xml:lang="rus">что это?</xt>
          </xg>
          <xg>
@@ -5726,9 +5675,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -5875,9 +5821,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -6482,9 +6425,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -6522,9 +6462,6 @@
       <pos>PRON-DEM</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e order="2">
@@ -8853,9 +8790,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -9296,9 +9230,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -9533,7 +9464,7 @@
          <xg>
             <x>кутшӧм ногӧн?</x>
             <xt xml:lang="fin">millä tavoin?</xt>
-            <xt>miten?</xt>
+            <xt xml:lang="fin">miten?</xt>
             <xt xml:lang="rus">как, каким образом?</xt>
          </xg>
          <xg>
@@ -10168,9 +10099,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -10183,9 +10111,6 @@
       <pos>R_PRON</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -10207,9 +10132,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -10222,9 +10144,6 @@
       <pos>R_PRON</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -10269,9 +10188,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -10294,9 +10210,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -10340,9 +10253,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -10391,9 +10301,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -10415,9 +10322,6 @@
       </mg>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">
@@ -10440,7 +10344,7 @@
          <xg>
             <x>кӧн ті уджаланныд?</x>
             <xt xml:lang="fin">Missä te työskentelette?</xt>
-            <xt>missä te olette työssä?</xt>
+            <xt xml:lang="fin">missä te olette työssä?</xt>
             <xt xml:lang="rus">где вы работаете?</xt>
          </xg>
       </mg>
@@ -10582,7 +10486,7 @@
          <xg>
             <x>тэ ме вылӧ эн надейтчы</x>
             <xt xml:lang="fin">Älä luota minuun.</xt>
-            <xt>Älä laske minun varaan.</xt>
+            <xt xml:lang="fin">Älä laske minun varaan.</xt>
             <xt xml:lang="rus">ты на меня не рассчитывай</xt>
          </xg>
          <xg>
@@ -10618,19 +10522,19 @@
          <xg>
             <x>вӧч ме ног</x>
             <xt xml:lang="fin">Tee, kuten minä.</xt>
-            <xt>Tee minun tavoin.</xt>
+            <xt xml:lang="fin">Tee minun tavoin.</xt>
             <xt xml:lang="rus">сделай по-моему</xt>
          </xg>
          <xg>
             <x>ме думысь</x>
             <xt xml:lang="fin">minun mielestäni</xt>
-            <xt>minusta</xt>
+            <xt xml:lang="fin">minusta</xt>
             <xt xml:lang="rus">по-моему</xt>
          </xg>
          <xg>
             <x>ме думысь талун зэрмас</x>
             <xt xml:lang="fin">Luulen, että tänään sataa.</xt>
-            <xt>Minusta tänään sataa.</xt>
+            <xt xml:lang="fin">Minusta tänään sataa.</xt>
             <xt xml:lang="rus">по-моему, сегодня будет дождь</xt>
          </xg>
          <xg>
@@ -10691,7 +10595,7 @@
          <xg>
             <x>мекӧд ветлам</x>
             <xt xml:lang="fin">Menemme yhdessä.</xt>
-            <xt>Mennään yhdessä.</xt>
+            <xt xml:lang="fin">Mennään yhdessä.</xt>
             <xt xml:lang="rus">сходим со мной</xt>
          </xg>
       </mg>
@@ -10736,7 +10640,7 @@
          <xg>
             <x>мелань бергӧдчы</x>
             <xt xml:lang="fin">Käänny minuun päin.</xt>
-            <xt>Käänny minua kohti.</xt>
+            <xt xml:lang="fin">Käänny minua kohti.</xt>
             <xt xml:lang="rus">повернись ко мне</xt>
          </xg>
          <xg>
@@ -10909,11 +10813,11 @@
          <xg>
             <x>менам тшӧктӧм серти</x>
             <xt xml:lang="fin">minun käskyni mukaan</xt>
-            <xt>käskystäni</xt>
-            <xt>minun kehotukseni mukaan</xt>
-            <xt>kehotuksestani</xt>
-            <xt>minun määräykseni mukaan</xt>
-            <xt>määräyksestäni</xt>
+            <xt xml:lang="fin">käskystäni</xt>
+            <xt xml:lang="fin">minun kehotukseni mukaan</xt>
+            <xt xml:lang="fin">kehotuksestani</xt>
+            <xt xml:lang="fin">minun määräykseni mukaan</xt>
+            <xt xml:lang="fin">määräyksestäni</xt>
             <xt xml:lang="rus">по моему велению, по моему приказанию, по моему распоряжению</xt>
          </xg>
          <xg>
@@ -11608,7 +11512,7 @@
          <xg>
             <x>виччысьӧны миянсянь отсӧг</x>
             <xt xml:lang="fin">Meiltä odotetaan apua.</xt>
-            <xt>He odottavat meiltä apua.</xt>
+            <xt xml:lang="fin">He odottavat meiltä apua.</xt>
             <xt xml:lang="rus">они ждут от нас помощи</xt>
          </xg>
          <xg>
@@ -11739,7 +11643,7 @@
          <xg>
             <x>тэ миянӧс эн велӧд</x>
             <xt xml:lang="fin">Älä opeta meitä.</xt>
-            <xt>Älä neuvo meitä.</xt>
+            <xt xml:lang="fin">Älä neuvo meitä.</xt>
             <xt xml:lang="rus">ты нас не учи</xt>
          </xg>
       </mg>
@@ -12063,7 +11967,7 @@
          <xg>
             <x>мыйла тэ локтін?</x>
             <xt xml:lang="fin">Miksi tulit?</xt>
-            <xt>Miksi olet tullut?</xt>
+            <xt xml:lang="fin">Miksi olet tullut?</xt>
             <xt xml:lang="rus">зачем ты пришёл?</xt>
          </xg>
       </mg>
@@ -12265,7 +12169,7 @@
          <xg>
             <x>мыйӧн тайӧ</x>
             <xt xml:lang="rus">сколько стоит?</xt>
-            <xt>почём это?</xt>
+            <xt xml:lang="fin">почём это?</xt>
          </xg>
          <xg>
             <x>нойыс мыйӧн ?</x>
@@ -12490,7 +12394,7 @@
          <defNative/>
          <xg>
             <x>накӧд орччӧн</x>
-            <xt>рядом с ними</xt>
+            <xt xml:lang="fin">рядом с ними</xt>
          </xg>
       </mg>
    </e>
@@ -12584,7 +12488,7 @@
          <xg>
             <x>налӧн керканыс чукыль саяс</x>
             <xt xml:lang="fin">Heidän talonsa on mutkan takana.</xt>
-            <xt>heidän talonsa on kaarteen takana</xt>
+            <xt xml:lang="fin">heidän talonsa on kaarteen takana</xt>
             <xt xml:lang="rus">их дом за поворотом</xt>
          </xg>
          <xg>
@@ -13358,7 +13262,7 @@
          <xg>
             <x>сы моз вӧчны</x>
             <xt xml:lang="fin">tehdä kuten hän</xt>
-            <xt>tehdä hänen tavoin</xt>
+            <xt xml:lang="fin">tehdä hänen tavoin</xt>
             <xt xml:lang="rus">сделать как он</xt>
             <xt xml:lang="rus">сделать как она</xt>
             <xt xml:lang="rus">сделать как оно</xt>
@@ -13366,19 +13270,19 @@
          <xg>
             <x>сы бӧрын</x>
             <xt xml:lang="fin">sen jälkeen</xt>
-            <xt>sitten</xt>
+            <xt xml:lang="fin">sitten</xt>
             <xt xml:lang="rus">затем</xt>
          </xg>
          <xg>
             <x>сы вӧсна</x>
             <xt xml:lang="fin">siksi</xt>
-            <xt>sen vuoksi</xt>
+            <xt xml:lang="fin">sen vuoksi</xt>
             <xt xml:lang="rus">потому, поэтому, с этой целью</xt>
          </xg>
          <xg>
             <x>сы вӧсна, мый...</x>
             <xt xml:lang="fin">siksi että...</xt>
-            <xt>sen vuoksi että...</xt>
+            <xt xml:lang="fin">sen vuoksi että...</xt>
             <xt xml:lang="rus">потому что ...</xt>
          </xg>
       </mg>
@@ -14524,9 +14428,6 @@
       <pos>PRON-DEM</pos>
       <mg>
          <defNative/>
-         <tg>
-            <t pos="Pron"/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst" order="2">

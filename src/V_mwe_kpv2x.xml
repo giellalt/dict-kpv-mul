@@ -9,9 +9,6 @@
       </lg>
       <pos>PHRASE_V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>стиснуть зубы</t>
          </tg>
@@ -34,9 +31,6 @@
       </lg>
       <pos>PHRASE_V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>расслабить руку</t>
          </tg>
@@ -51,9 +45,6 @@
       </lg>
       <pos/>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>совсем не надо, душа не принимает</t>
          </tg>
@@ -89,9 +80,6 @@
       <pos>V</pos>
       <drv>изобр.</drv>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>посмотреть косо</t>
          </tg>
@@ -106,9 +94,6 @@
       </lg>
       <pos>V-V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>болтаться</t>
          </tg>
@@ -127,9 +112,6 @@
       </lg>
       <pos>V-V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <tCtn>
                <t>хлюпать, шлёпать</t>
@@ -147,12 +129,6 @@
       </lg>
       <pos>V-V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
-         <tg>
-            <t>XX</t>
-         </tg>
          <xg>
             <x>вом доръясас болькъясис-пуис быг</x>
             <xt xml:lang="rus">на губах пузырилась-вскипала пена</xt>
@@ -168,9 +144,6 @@
       </lg>
       <pos>V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <tCtn>
                <t>царапать, нацарапть</t>
@@ -192,9 +165,6 @@
       </lg>
       <pos>V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>громко смеяться, хохотать</t>
          </tg>
@@ -210,9 +180,6 @@
       <pos>V</pos>
       <val valency="vt"/>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>кормить-поить, угощать</t>
          </tg>
@@ -232,9 +199,6 @@
       <pos>V</pos>
       <val valency="vt"/>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>кормить-поить</t>
          </tg>
@@ -247,9 +211,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>содержать, обеспечивать</t>
          </tg>
@@ -270,9 +231,6 @@
       <drv>уменьш.</drv>
       <val valency="vt"/>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>подкрепить</t>
          </tg>
@@ -288,9 +246,6 @@
       <pos>V</pos>
       <val valency="vi"/>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>разъезжать, путешествовать</t>
          </tg>
@@ -320,9 +275,6 @@
       <pos>V</pos>
       <val valency="vi"/>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>посещать друг друга</t>
          </tg>
@@ -337,9 +289,6 @@
       </lg>
       <pos>V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>драться до крови</t>
          </tg>
@@ -354,9 +303,6 @@
       </lg>
       <pos>V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <tCtn>
                <t>недомогать</t>
@@ -374,9 +320,6 @@
       </lg>
       <pos>V</pos>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>продавать-покупать</t>
          </tg>
@@ -385,9 +328,6 @@
          </tg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>покупать для перепродажи, заниматься перепродажей</t>
          </tg>
@@ -428,9 +368,6 @@
       <drv>изобр.</drv>
       <val valency="vt"/>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>разболтать, расшатать</t>
          </tg>
@@ -440,9 +377,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>разбить, перебить</t>
          </tg>
@@ -463,9 +397,6 @@
       <drv>изобр.</drv>
       <val valency="vt"/>
       <mg relId="0">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>разболтать, расшатать</t>
          </tg>
@@ -475,9 +406,6 @@
          </xg>
       </mg>
       <mg No="2">
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>разбить, перебить</t>
          </tg>
@@ -496,9 +424,6 @@
       </lg>
       <pos>V-V</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="rus">
             <t>выпить, жадно глотнуть</t>
          </tg>

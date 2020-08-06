@@ -384,9 +384,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst">
@@ -400,9 +397,6 @@
          <defNative/>
          <tg xml:lang="fin">
             <t>Skandinavian niemimaa</t>
-         </tg>
-         <tg>
-            <t/>
          </tg>
       </mg>
    </e>
@@ -436,9 +430,6 @@
       </lg>
       <mg>
          <defNative/>
-         <tg>
-            <t/>
-         </tg>
       </mg>
    </e>
   <e exclude="fst">

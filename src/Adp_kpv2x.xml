@@ -119,9 +119,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -298,9 +295,6 @@
       </stg>
     </lg>
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -342,9 +336,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -368,9 +359,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">у, возле (чего-л.)</t>
@@ -406,9 +394,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">около, подле, возле, у, мимо (кого-чего-л.)</t>
@@ -440,9 +425,6 @@
       </stg>
     </lg>
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до (кого-чего-л.)</t>
@@ -462,9 +444,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -491,9 +470,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">by sm's side</t>
@@ -531,9 +507,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">со стороны</t>
@@ -561,9 +534,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">past</t>
@@ -575,9 +545,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">стороной</t>
@@ -654,9 +621,6 @@
     <pos>ADV-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">находящийся сбоку (чего-л.)</t>
@@ -682,9 +646,6 @@
     <pos>ADV-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">сбоку</t>
@@ -706,9 +667,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в стороне</t>
@@ -736,9 +694,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">from a stand point</t>
@@ -750,9 +705,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">from the side</t>
@@ -772,9 +724,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -798,9 +747,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">со стороны (чего-л.)</t>
@@ -834,9 +780,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">у, возле, около, мимо (кого-чего-л.)</t>
@@ -864,9 +807,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -902,9 +842,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">сбоку (чего-л.)</t>
@@ -936,9 +873,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">у, сбоку, возле, подле (чего-л.)</t>
@@ -966,9 +900,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t>by side</t>
@@ -984,9 +915,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до (чего-л.)</t>
@@ -1074,9 +1002,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">позади (кого-чего-л.)</t>
@@ -1118,9 +1043,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">позади, сзади (кого-чего-л.)</t>
@@ -1148,9 +1070,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">позади (кого-чего-л.)</t>
@@ -1172,9 +1091,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">сзади, позади (кого-чего-л.)</t>
@@ -1196,9 +1112,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">позади, сзади</t>
@@ -1220,9 +1133,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">назад</t>
@@ -1260,9 +1170,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">after</t>
@@ -1276,9 +1183,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -1344,9 +1248,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -1379,9 +1280,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">после (кого-чего-л.)</t>
@@ -1476,9 +1374,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">после (чего-л.)</t>
@@ -1566,9 +1461,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">наконец</t>
@@ -1643,9 +1535,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -1705,9 +1594,6 @@
     <pos>POSTP-TEMP</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до (чего-л.)</t>
@@ -1738,9 +1624,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">for</t>
@@ -1760,9 +1643,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">сверху</t>
@@ -1778,9 +1658,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по-над</t>
@@ -1820,9 +1697,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">над</t>
@@ -1844,9 +1718,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до (чего-л.)</t>
@@ -1871,9 +1742,6 @@
     <pos>POSTP-TEMP</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -2006,15 +1874,9 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">место напротив (чего-л.)</t>
@@ -2041,9 +1903,6 @@
     <pos>A-1ARG</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">находящийся напротив (кого-чего-л.)</t>
@@ -2076,9 +1935,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -2133,9 +1989,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -2170,9 +2023,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с места напротив (чего-л.)</t>
@@ -2272,9 +2122,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -2316,9 +2163,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до (чего-л.)</t>
@@ -2340,9 +2184,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -2383,9 +2224,6 @@
     <pos>POSTP-TEMP</pos>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -2433,9 +2271,6 @@
       </stg>
     </lg>
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -2467,9 +2302,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">спереди (кого-чего-л.)</t>
@@ -2491,9 +2323,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вперёд (кого-чего-л.)</t>
@@ -2589,9 +2418,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -2615,9 +2441,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">на</t>
@@ -2802,9 +2625,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до места, находящегося перед чем-л.</t>
@@ -2829,9 +2649,6 @@
     <pos>POSTP-TEMP</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за</t>
@@ -2861,9 +2678,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до, прежде</t>
@@ -2892,9 +2706,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <xg>
         <x>вомас</x>
@@ -2906,13 +2717,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e order="2">
@@ -2927,9 +2732,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">over</t>
@@ -2945,9 +2747,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -2971,9 +2770,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">поперёк (чего-л.)</t>
@@ -2998,9 +2794,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с (чего-л.)</t>
@@ -3029,9 +2822,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t>over</t>
@@ -3076,9 +2866,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">при</t>
@@ -3092,9 +2879,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">близко к</t>
@@ -3150,9 +2934,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3195,9 +2976,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3229,9 +3007,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3272,9 +3047,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -3295,9 +3067,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3332,9 +3101,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3384,9 +3150,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">над</t>
@@ -3412,9 +3175,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3463,9 +3223,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">on high</t>
@@ -3494,9 +3251,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">поверху</t>
@@ -3521,9 +3275,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">на кого-что-л.</t>
@@ -3569,9 +3320,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">для (кого-чего-л.)</t>
@@ -3597,9 +3345,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3629,9 +3374,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">сверх, поверх (чего-л.)</t>
@@ -3645,9 +3387,6 @@
     </mg>
 
     <mg No="5">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3695,9 +3434,6 @@
     </mg>
 
     <mg No="7">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">под</t>
@@ -3711,9 +3447,6 @@
     </mg>
 
     <mg No="8">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3813,9 +3546,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3850,9 +3580,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">на расстоянии</t>
@@ -3928,9 +3655,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -3965,9 +3689,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -4000,9 +3721,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">due to</t>
@@ -4030,13 +3748,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e order="2">
@@ -4049,9 +3761,6 @@
     </lg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">ради (кого-чего-л.)</t>
@@ -4079,9 +3788,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -4099,9 +3805,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">из-за (кого-чего-л.)</t>
@@ -4121,9 +3824,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по, вследствие, по причине (чего-л.)</t>
@@ -4195,9 +3895,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">with the size of</t>
@@ -4209,9 +3906,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">величиной с ...</t>
@@ -4274,9 +3968,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вокруг</t>
@@ -4299,7 +3990,7 @@
 
         <xt xml:lang="rus">вокруг нас</xt>
 
-        <xt>в нашей среде</xt>
+        <xt xml:lang="rus">в нашей среде</xt>
       </xg>
 
       <xg>
@@ -4327,9 +4018,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по</t>
@@ -4376,9 +4064,6 @@
     <pos>POSTP-TEMP</pos>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">около</t>
@@ -4433,9 +4118,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">от (чего-л.)</t>
@@ -4468,9 +4150,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">место возле, около (чего-л.)</t>
@@ -4633,9 +4312,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -4659,9 +4335,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -4766,9 +4439,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с (чего-л.)</t>
@@ -4788,9 +4458,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по сравнению с кем-чем-л.</t>
@@ -4940,9 +4607,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">на</t>
@@ -4998,9 +4662,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">(употр. тж. с опред.-притяж. суф.) до (кого-чего-л.)</t>
@@ -5035,9 +4696,6 @@
     </lg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">долго</t>
@@ -5188,9 +4846,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в, в период, во время (чего-л.)</t>
@@ -5445,9 +5100,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">(употр. тж. с опред.-притяж.суф.) с места около, вблизи, подле,
@@ -5479,9 +5131,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -5558,9 +5207,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">около, возле, вблизи (кого-чего-л.)</t>
@@ -5664,9 +5310,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -5702,9 +5345,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">над</t>
@@ -5729,9 +5369,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -5814,9 +5451,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">about</t>
@@ -5874,9 +5508,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">на</t>
@@ -5890,9 +5521,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с (чего-л.)</t>
@@ -5926,9 +5554,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">относительно, насчёт (чего-л.)</t>
@@ -5953,9 +5578,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">на</t>
@@ -6025,9 +5647,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до</t>
@@ -6091,13 +5710,7 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e>
@@ -6110,9 +5723,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">up stream (used with names of rivers)</t>
@@ -6133,9 +5743,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">for ...(a period of time)</t>
@@ -6193,9 +5800,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -6225,9 +5829,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -6453,9 +6054,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вроде, наподобие (чего-л.)</t>
@@ -6535,9 +6133,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -6608,9 +6203,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t>middle</t>
@@ -6629,9 +6221,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">из, с, из-под, из-за (чего-л.)</t>
@@ -6680,9 +6269,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -6757,9 +6343,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -6816,9 +6399,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -6852,9 +6432,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по</t>
@@ -6892,9 +6469,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по поводу, по случаю</t>
@@ -6930,9 +6504,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">ради</t>
@@ -6967,9 +6538,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -7018,9 +6586,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">около, примерно</t>
@@ -7077,9 +6642,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">along side</t>
@@ -7095,9 +6657,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">кроме</t>
@@ -7132,9 +6691,6 @@
     <pos>POSTP-A</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">крытый чем-л.</t>
@@ -7205,13 +6761,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e order="2">
@@ -7256,13 +6806,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e order="2">
@@ -7275,9 +6819,6 @@
     </lg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с целью, в целях</t>
@@ -7303,9 +6844,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">для, ради (чего-л.)</t>
@@ -7346,9 +6884,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">such as</t>
@@ -7366,9 +6901,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">как</t>
@@ -7416,9 +6948,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">почти</t>
@@ -7459,9 +6988,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">as much as</t>
@@ -7473,9 +6999,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">около</t>
@@ -7514,9 +7037,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">in</t>
@@ -7534,9 +7054,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">через</t>
@@ -7562,9 +7079,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -7610,9 +7124,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">после</t>
@@ -7678,9 +7189,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">on the other side of</t>
@@ -7733,13 +7241,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e order="2">
@@ -7752,9 +7254,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">-wise</t>
@@ -7766,9 +7265,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">by</t>
@@ -7780,9 +7276,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по, в</t>
@@ -7971,9 +7464,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -8174,9 +7664,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с каким-л. носом, клювом</t>
@@ -8190,9 +7677,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с каким-л. носком</t>
@@ -8212,9 +7696,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с ростком, проращённый</t>
@@ -8297,9 +7778,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по чему-л.</t>
@@ -8390,9 +7868,6 @@
     <drv>-ысь</drv>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -8415,9 +7890,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -8446,9 +7918,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">(употр. тж. с опред.-притяж. суф.) у кого-л.</t>
@@ -8511,9 +7980,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -8645,9 +8111,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -8720,9 +8183,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">против</t>
@@ -8758,9 +8218,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">накануне</t>
@@ -8790,9 +8247,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вопреки, против</t>
@@ -8806,9 +8260,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в противовес</t>
@@ -8891,9 +8342,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">напротив</t>
@@ -8907,9 +8355,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -8948,9 +8393,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">throughout</t>
@@ -8962,9 +8404,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по всему</t>
@@ -8987,9 +8426,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9022,9 +8458,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9051,9 +8484,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9090,9 +8520,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">among</t>
@@ -9104,13 +8531,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e order="2">
@@ -9144,9 +8565,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9174,9 +8592,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9211,9 +8626,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">из (кого-чего-л.)</t>
@@ -9282,9 +8694,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9328,9 +8737,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9373,9 +8779,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9403,9 +8806,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">у</t>
@@ -9419,9 +8819,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">на конце, в конце</t>
@@ -9452,9 +8849,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с, из (чего-л.)</t>
@@ -9480,9 +8874,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">от (кого-чего-л.)</t>
@@ -9508,9 +8899,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9548,9 +8936,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">от, по причине</t>
@@ -9587,9 +8972,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9616,9 +8998,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">for some reason</t>
@@ -9630,9 +9009,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9656,9 +9032,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">ради (кого-чего-л.)</t>
@@ -9684,9 +9057,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">из-за (кого-чего-л.)</t>
@@ -9710,9 +9080,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9736,9 +9103,6 @@
     </mg>
 
     <mg No="5">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">для (чего-л.)</t>
@@ -9825,9 +9189,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за счёт (чего-л.)</t>
@@ -9898,9 +9259,6 @@
     </lg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9932,9 +9290,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -9952,9 +9307,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">для (чего-л.)</t>
@@ -9984,9 +9336,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за</t>
@@ -10000,9 +9349,6 @@
     </mg>
 
     <mg No="5">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -10020,9 +9366,6 @@
     </mg>
 
     <mg No="6">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">взамен чего-л.</t>
@@ -10036,9 +9379,6 @@
     </mg>
 
     <mg No="7">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -10201,9 +9541,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">instead of</t>
@@ -10256,9 +9593,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">through</t>
@@ -10284,9 +9618,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">через</t>
@@ -10320,9 +9651,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">сквозь</t>
@@ -10348,9 +9676,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по</t>
@@ -10364,9 +9689,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в</t>
@@ -10459,9 +9781,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">через</t>
@@ -10483,9 +9802,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">inside</t>
@@ -10503,13 +9819,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e order="2">
@@ -10534,13 +9844,7 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e order="2">
@@ -10572,9 +9876,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">along</t>
@@ -10586,9 +9887,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вдоль (чего-л.)</t>
@@ -10658,9 +9956,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -10672,9 +9967,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">ради кого-чего-л.</t>
@@ -10718,9 +10010,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -10810,15 +10099,9 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -10889,9 +10172,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в сравнении, по сравнению, сравнительно, против</t>
@@ -10918,9 +10198,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -10990,9 +10267,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">для</t>
@@ -11024,9 +10298,6 @@
     </mg>
 
     <mg No="5">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по</t>
@@ -11083,9 +10354,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -11149,9 +10417,6 @@
     </lg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -11175,9 +10440,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">на</t>
@@ -11379,9 +10641,6 @@
     </lg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -11473,9 +10732,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">для (чего-л.)</t>
@@ -11500,9 +10756,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в этом отношении</t>
@@ -11543,9 +10796,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t/>
@@ -11562,9 +10812,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в этом отношении</t>
@@ -11605,9 +10852,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
     </mg>
 
     <mg No="3">
@@ -11637,9 +10881,6 @@
     </mg>
 
     <mg No="4">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -11660,9 +10901,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">past (beneath)</t>
@@ -11685,9 +10923,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">низко</t>
@@ -11716,9 +10951,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">during</t>
@@ -11734,9 +10966,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в течение (чего-л.)</t>
@@ -11817,9 +11046,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за (какое-л.) время</t>
@@ -11877,9 +11103,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до середины, до половины</t>
@@ -12107,9 +11330,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по середине, по центру (чего-л.)</t>
@@ -12144,9 +11364,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в середине, на середине (чего-л.)</t>
@@ -12209,9 +11426,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -12256,9 +11470,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в середину, в центр (чего-л.)</t>
@@ -12288,9 +11499,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">к (чему-л.)</t>
@@ -12387,9 +11595,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до середины, до центра (чего-л.)</t>
@@ -12430,13 +11635,7 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
-      <tg>
-        <t/>
-      </tg>
     </mg>
   </e>
   <e order="2">
@@ -12451,9 +11650,6 @@
     <pos>Po</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t/>
@@ -12465,9 +11661,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">примерно, приблизительно, около, с QXQX примерный, приблизительный,
@@ -12608,9 +11801,6 @@
     </mg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">кроме</t>
@@ -12677,9 +11867,6 @@
     </lg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -12717,9 +11904,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в смеси</t>
@@ -12865,9 +12049,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">при вас</t>
@@ -12935,9 +12116,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">при них</t>
@@ -12997,9 +12175,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">от тебя</t>
@@ -13016,9 +12191,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">от него</t>
@@ -13037,9 +12209,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">с места</t>
@@ -13063,9 +12232,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -13451,9 +12617,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вплотную к нам</t>
@@ -13472,9 +12635,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вплотную к ним</t>
@@ -13500,9 +12660,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вплотную к тебе</t>
@@ -13521,9 +12678,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вплотную ко мне</t>
@@ -13542,9 +12696,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вплотную к нему</t>
@@ -13598,9 +12749,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -13635,9 +12783,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">боком</t>
@@ -13662,9 +12807,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">сзади тебя,</t>
@@ -13695,9 +12837,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за мной</t>
@@ -13718,9 +12857,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за вами</t>
@@ -13741,9 +12877,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за нами</t>
@@ -13770,9 +12903,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за ними</t>
@@ -13793,9 +12923,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за ним</t>
@@ -13826,9 +12953,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">наконец, под конец</t>
@@ -13850,9 +12974,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по направлению к задней части (чего-л.)</t>
@@ -14177,9 +13298,6 @@
       </stg>
     </lg>
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="eng">
         <t pos="Pr">after</t>
@@ -14193,9 +13311,6 @@
     </mg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -14230,9 +13345,6 @@
     </lg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">позади</t>
@@ -14246,9 +13358,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">позже</t>
@@ -14331,9 +13440,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">перед тобой</t>
@@ -14368,9 +13474,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">передо мной</t>
@@ -14405,9 +13508,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">перед вами</t>
@@ -14442,9 +13542,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">перед нами</t>
@@ -14479,9 +13576,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">перед ними</t>
@@ -14522,9 +13616,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">перед ним</t>
@@ -14905,9 +13996,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">через</t>
@@ -15538,9 +14626,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">поблизости от (чего-л.)</t>
@@ -15725,9 +14810,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -16121,9 +15203,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -17037,9 +16116,6 @@
     </lg>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">навылет</t>
@@ -17053,9 +16129,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">насквозь</t>
@@ -17355,9 +16428,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">из (кого-чего-л.)</t>
@@ -17470,9 +16540,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">вглубь (чего-л.)</t>
@@ -17513,9 +16580,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">среди (кого-чего-л.)</t>
@@ -17591,9 +16655,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -17628,9 +16689,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">меж, между</t>
@@ -17654,9 +16712,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -17691,9 +16746,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">в направлении (за какой-л.) предмет</t>
@@ -17768,9 +16820,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">от</t>
@@ -17803,9 +16852,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -17823,9 +16869,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">по-за</t>
@@ -17850,9 +16893,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -17920,9 +16960,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">под</t>
@@ -17967,9 +17004,6 @@
     <pos>POSTP-TEMP</pos>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">тому назад</t>
@@ -18000,9 +17034,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -18044,9 +17075,6 @@
     </mg>
 
     <mg No="2">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за</t>
@@ -18077,9 +17105,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg relId="0">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">(употр. тж. с опред.-притяж. суф.) за кого-что-л.</t>
@@ -18176,9 +17201,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -18218,9 +17240,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">до места, находящегося по ту сторону (чего-л.)</t>
@@ -18676,9 +17695,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">после</t>
@@ -19113,9 +18129,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -19174,9 +18187,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -19303,9 +18313,6 @@
     </mg>
 
     <mg No="3">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -19357,9 +18364,6 @@
     </mg>
 
     <mg No="5">
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">за</t>
@@ -19386,9 +18390,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <tCtn>
@@ -19415,9 +18416,6 @@
     </lg>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">(достиг. п.) до (чего-л.)</t>
@@ -19620,9 +18618,6 @@
     <pos>POSTP-SPAT</pos>
 
     <mg>
-      <m>
-        <head/>
-      </m>
 
       <tg xml:lang="rus">
         <t pos="Pr">к середине, к центру (чего-л.)</t>

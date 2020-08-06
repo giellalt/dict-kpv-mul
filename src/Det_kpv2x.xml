@@ -32,7 +32,7 @@
          <xg>
             <x>коймӧд юкӧн</x>
             <xt xml:lang="fin">kolmasosa</xt>
-            <xt>kolmannes</xt>
+            <xt xml:lang="fin">kolmannes</xt>
             <xt xml:lang="rus">третья часть, одна треть</xt>
          </xg>
          <xg>
@@ -109,7 +109,7 @@
          <xg>
             <x>морт-мӧд</x>
             <xt xml:lang="fin">pari ihmistä</xt>
-            <xt>jokunen ihminen</xt>
+            <xt xml:lang="fin">jokunen ihminen</xt>
             <xt xml:lang="rus">несколько человек</xt>
          </xg>
       </mg>
@@ -185,8 +185,8 @@
          </xg>
          <xg>
             <x>первой слӧй</x>
-            <xt>ensimmäinen kerrostuma</xt>
-            <xt>ensimmäinen kerros</xt>
+            <xt xml:lang="fin">ensimmäinen kerrostuma</xt>
+            <xt xml:lang="fin">ensimmäinen kerros</xt>
             <xt xml:lang="rus">первичный слой</xt>
          </xg>
       </mg>
@@ -280,7 +280,7 @@
          <xg>
             <x>витӧд юкӧн</x>
             <xt xml:lang="fin">viidesosa</xt>
-            <xt>viidennes</xt>
+            <xt xml:lang="fin">viidennes</xt>
             <xt xml:lang="rus">пятая часть</xt>
          </xg>
          <xg>
@@ -350,7 +350,7 @@
          <xg>
             <x>квайтымынӧд вылын</x>
             <xt xml:lang="fin">kuudennellakymmenennellä</xt>
-            <xt>yli viisikymmentä</xt>
+            <xt xml:lang="fin">yli viisikymmentä</xt>
             <xt xml:lang="rus">на шестидесятом году</xt>
          </xg>
          <xg>
@@ -510,7 +510,7 @@
          <xg>
             <x>комын кыкӧд</x>
             <xt xml:lang="fin">kolmaskymmeneskahdes</xt>
-            <xt>kolmaskymmenestoinen</xt>
+            <xt xml:lang="fin">kolmaskymmenestoinen</xt>
             <xt xml:lang="rus">тридцать второй</xt>
          </xg>
       </mg>
@@ -687,7 +687,7 @@
          <xg>
             <x>нёльӧдысь</x>
             <xt xml:lang="fin">neljästi</xt>
-            <xt>neljä kertaa</xt>
+            <xt xml:lang="fin">neljä kertaa</xt>
             <xt xml:lang="rus">(в) четвёртый раз</xt>
          </xg>
          <xg>
@@ -698,7 +698,7 @@
          <xg>
             <x>нёльӧд юкӧн</x>
             <xt xml:lang="fin">neljasosa</xt>
-            <xt>neljännes</xt>
+            <xt xml:lang="fin">neljännes</xt>
             <xt xml:lang="rus">четверть, четвёртая часть</xt>
          </xg>
          <xg>
@@ -736,7 +736,7 @@
          <xg>
             <x>сылы сизимдасӧд арӧс нин</x>
             <xt xml:lang="fin">Hän on jo seitsemänkymmentävuotias.</xt>
-            <xt>Hän on jo 70-vuotias.</xt>
+            <xt xml:lang="fin">Hän on jo 70-vuotias.</xt>
             <xt xml:lang="rus">ему уже семидесятый год</xt>
          </xg>
       </mg>
@@ -923,7 +923,7 @@
          <xg>
             <x>ӧкмысӧдысь</x>
             <xt xml:lang="fin">yhdeksästi</xt>
-            <xt>yhdeksän kertaa</xt>
+            <xt xml:lang="fin">yhdeksän kertaa</xt>
             <xt xml:lang="rus">девятый раз</xt>
          </xg>
       </mg>
